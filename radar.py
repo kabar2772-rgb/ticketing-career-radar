@@ -72,6 +72,43 @@ def collect(source):
             title = re.split(r'\\s+(?:Division:|Application deadline:)', label, maxsplit=1)[0].strip()
             if title:
                 yield dict(title=title, url=url, location='Nyon, Switzerland', description=label, published='')
+
+    elif adapter == 'teamtailor':
+        response = requests.get('https://' + slug + '/jobs', headers=HEADERS, timeout=TIMEOUT)
+        response.raise_for_status()
+        class JobLinks(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.links = []
+                self.href = None
+                self.words = []
+            def handle_starttag(self, tag, attrs):
+                if tag == 'a':
+                    href = dict(attrs).get('href', '')
+                    if re.search(r'/jobs/\\d+[-/]', href):
+                        self.href = href
+                        self.words = []
+            def handle_data(self, data):
+                if self.href is not None:
+                    self.words.append(data)
+            def handle_endtag(self, tag):
+                if tag == 'a' and self.href:
+                    title = clean(' '.join(self.words))
+                    if title:
+                        self.links.append((self.href, title))
+                    self.href = None
+        parser = JobLinks()
+        parser.feed(response.text)
+        if not parser.links:
+            raise ValueError('No Teamtailor job links on public page')
+        seen = set()
+        for href, title in parser.links:
+            url = requests.compat.urljoin(response.url, href)
+            if url in seen:
+                continue
+            seen.add(url)
+            yield dict(title=title, url=url, location=source.get('location', ''),
+                       description=title + ' ' + source.get('category', ''), published='')
     elif adapter == 'greenhouse':
         data = fetch(f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true')['jobs']
         for item in data:
@@ -117,7 +154,7 @@ def classify(job, source):
     ticketing = bool(TICKETING.search(title))
     operations = bool(OPERATIONS.search(title))
     leadership = bool(LEADERSHIP.search(title))
-    if not (ticketing or (operations and leadership)):
+    if not (ticketing or (operations and leadership) or (source.get('category') == 'sport' and leadership and re.search(r'\\b(partnership|commercial|accreditation|overlay|ceremonies|guest services|premium experience)\\b', title, re.I))):
         return None
     if not leadership and not ticketing:
         return None
