@@ -58,7 +58,7 @@ class UEFAJobsParser(HTMLParser):
 def collect(source):
     adapter, slug = source['adapter'], source['slug']
     if adapter == 'uefa':
-        response = requests.get('https://www.uefa.com/about/jobs/job-opportunities/', headers=HEADERS, timeout=TIMEOUT)
+        response = requests.get('https://www.uefa.com/about/jobs/', headers=HEADERS, timeout=TIMEOUT)
         response.raise_for_status()
         parser = UEFAJobsParser()
         parser.feed(response.text)
