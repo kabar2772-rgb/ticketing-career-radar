@@ -30,7 +30,7 @@ jobs:
 
       - name: Run job collector
         run: |
-          python scraper.py
+          python radar.py
 
       - name: Save updated vacancies
         run: |
