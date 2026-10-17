@@ -60,7 +60,7 @@ EXCLUDE = re.compile(r'\b(software engineer|software developer|developer|devops|
 SPORT = re.compile(r'\b(sport|sports|football|soccer|fifa|uefa|formula\s*1|f1|motogp|racing|motorsport|olympic|stadium|arena|tournament|grand prix|cricket|tennis|basketball|rugby|club|league|matchday)\b', re.I)
 CULTURE = re.compile(r'\b(museum|museums|theatre|theater|gallery|galleries|exhibition|theme park|amusement park|entertainment|concert|performing arts|attraction|cultural|heritage|visitor attraction)\b', re.I)
 GCC = re.compile(r'\b(uae|united arab emirates|dubai|abu dhabi|sharjah|ajman|ras al khaimah|fujairah|qatar|doha|lusail|saudi arabia|saudi|ksa|riyadh|jeddah|jidda|dammam|khobar|alula|al ula|neom|tabuk|makkah|mecca|medina|madinah)\b', re.I)
-NO_SPONSOR = re.compile(r'(?:no|not|without)\s+(?:visa\s+)?sponsorship|(?:must|should)\s+(?:already\s+)?(?:have|hold|possess)\s+(?:a\s+)?(?:valid\s+)?(?:right|authorization|permission)\s+to\s+work|not\s+(?:able|willing)\s+to\s+sponsor', re.I)
+NO_SPONSOR = re.compile(r'(?:does not|do not|will not|cannot|can not)\\s+(?:offer|provide)\\s+(?:work\\s+)?(?:visa\\s+)?sponsorship|(?:no|not|without)\s+(?:visa\s+)?sponsorship|(?:must|should)\s+(?:already\s+)?(?:have|hold|possess)\s+(?:a\s+)?(?:valid\s+)?(?:right|authorization|permission)\s+to\s+work|not\s+(?:able|willing)\s+to\s+sponsor', re.I)
 YES_SPONSOR = re.compile(r'visa sponsorship (?:is )?(?:available|provided|offered)|(?:provide|offer)\s+(?:visa\s+)?sponsorship|work permit (?:support|assistance|provided)|relocation and visa (?:support|assistance)', re.I)
 
 
