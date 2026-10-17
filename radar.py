@@ -94,3 +94,85 @@ def classify(job, source):
         # broader operations only when explicitly sports-related.
         if not ticketing:
             return None
+
+    if NO_SPONSOR.search(description):
+        visa = 'Work authorization required / no sponsorship stated'
+    elif YES_SPONSOR.search(description):
+        visa = 'Sponsorship mentioned — verify eligibility'
+    else:
+        visa = 'Not specified — verify'
+    score = (76 if ticketing else 48) + (16 if leadership else 0)
+    if category == 'sport':
+        score += 5
+    if visa.startswith('Work authorization'):
+        score -= 25
+    return visa, max(0, min(100, score))
+
+
+def main():
+    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    output = ROOT / 'data'
+    output.mkdir(exist_ok=True)
+    old_file = output / 'jobs.json'
+    try:
+        old = json.loads(old_file.read_text(encoding='utf-8')).get('jobs', []) if old_file.exists() else []
+    except (ValueError, OSError):
+        old = []
+    indexed = {j['id']: j for j in old if j.get('id')}
+    stats = []
+    for source in CONFIG.get('sources', []):
+        try:
+            rows = list(collect(source))
+            relevant = 0
+            current_ids = set()
+            for raw in rows:
+                if not raw.get('url') or not raw.get('title'):
+                    continue
+                ident = hashlib.sha256(raw['url'].split('?')[0].encode()).hexdigest()[:20]
+                current_ids.add(ident)
+                decision = classify(raw, source)
+                if decision is None:
+                    continue
+                visa, score = decision
+                previous = indexed.get(ident, {})
+                indexed[ident] = {
+                    'id': ident, 'company': source['company'],
+                    'title': raw['title'], 'url': raw['url'],
+                    'location': raw.get('location', ''),
+                    'description': clean(raw.get('description', ''))[:8000],
+                    'published': raw.get('published', ''),
+                    'visa': visa, 'score': score,
+                    'salary': 'Not disclosed / not parsed',
+                    'first_seen': previous.get('first_seen', now),
+                    'last_seen': now, 'status': 'active',
+                    'source': source['adapter']
+                }
+                relevant += 1
+            for ident, job in indexed.items():
+                if (job.get('company') == source['company']
+                        and job.get('source') == source['adapter']
+                        and ident not in current_ids):
+                    job['status'] = 'not found in latest source'
+            stats.append({'source': source['company'], 'state': 'ok',
+                          'retrieved': len(rows), 'relevant': relevant})
+        except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
+            stats.append({'source': source['company'], 'state': 'error',
+                          'detail': str(exc)[:200]})
+    jobs = sorted(indexed.values(),
+                  key=lambda j: (j.get('status') != 'active', -j.get('score', 0), j.get('title', '')))
+    (output / 'jobs.json').write_text(
+        json.dumps({'updated': now, 'sources': stats, 'jobs': jobs},
+                   ensure_ascii=False, indent=2), encoding='utf-8')
+    columns = ['company', 'title', 'location', 'score', 'visa', 'salary',
+               'status', 'first_seen', 'last_seen', 'url']
+    with (output / 'jobs.csv').open('w', newline='', encoding='utf-8-sig') as stream:
+        writer = csv.DictWriter(stream, fieldnames=columns)
+        writer.writeheader()
+        writer.writerows({key: job.get(key, '') for key in columns} for job in jobs)
+    print(json.dumps({'updated': now, 'sources': stats, 'total': len(jobs)},
+                     ensure_ascii=False))
+    return 0 if any(item['state'] == 'ok' for item in stats) else 2
+
+
+if __name__ == '__main__':
+    sys.exit(main())
