@@ -1,3 +1,24 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "company": "Relevent Football Partners",
+      "adapter": "ashby",
+      "slug": "releventfp"
+    },
+    {
+      "company": "Jump",
+      "adapter": "ashby",
+      "slug": "Jump"
+    },
+    {
+      "company": "AXS",
+      "adapter": "greenhouse",
+      "slug": "axs"
+    },
+    {
+      "company": "LA28",
+      "adapter": "greenhouse",
+      "slug": "la28"
+    }
+  ]
 }
