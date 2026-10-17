@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "company": "UEFA",
+      "adapter": "uefa",
+      "slug": "official",
+      "category": "sport"
+    },
+    {
       "company": "Relevent Football Partners",
       "adapter": "ashby",
       "slug": "releventfp"
