@@ -7,6 +7,13 @@
       "category": "sport"
     },
     {
+      "company": "Formula E",
+      "adapter": "teamtailor",
+      "slug": "careers.fiaformulae.com",
+      "location": "London, United Kingdom",
+      "category": "sport"
+    },
+    {
       "company": "Relevent Football Partners",
       "adapter": "ashby",
       "slug": "releventfp"
