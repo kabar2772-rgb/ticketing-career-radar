@@ -7,6 +7,7 @@ import html
 import json
 import re
 import sys
+from html.parser import HTMLParser
 from pathlib import Path
 
 import requests
@@ -27,9 +28,51 @@ def fetch(url):
     return response.json()
 
 
+
+class UEFAJobsParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.links = []
+        self.href = None
+        self.parts = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            href = dict(attrs).get('href', '')
+            self.href = href if 'jobylon.com' in href else None
+            self.parts = []
+
+    def handle_data(self, data):
+        if self.href is not None:
+            self.parts.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == 'a' and self.href is not None:
+            label = clean(' '.join(self.parts))
+            if label:
+                self.links.append((self.href, label))
+            self.href = None
+            self.parts = []
+
+
 def collect(source):
     adapter, slug = source['adapter'], source['slug']
-    if adapter == 'greenhouse':
+    if adapter == 'uefa':
+        response = requests.get('https://www.uefa.com/about/jobs/job-opportunities/', headers=HEADERS, timeout=TIMEOUT)
+        response.raise_for_status()
+        parser = UEFAJobsParser()
+        parser.feed(response.text)
+        if not parser.links:
+            raise ValueError('UEFA jobs links not found in official page')
+        seen = set()
+        for url, label in parser.links:
+            if url in seen:
+                continue
+            seen.add(url)
+            title = re.split(r'\\s+(?:Division:|Application deadline:)', label, maxsplit=1)[0].strip()
+            if title:
+                yield dict(title=title, url=url, location='Nyon, Switzerland', description=label, published='')
+    elif adapter == 'greenhouse':
         data = fetch(f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true')['jobs']
         for item in data:
             yield dict(title=item.get('title', ''), url=item.get('absolute_url', ''),
@@ -69,7 +112,7 @@ def classify(job, source):
     description = job['description'] or ''
     location = job['location'] or ''
     combined = title + ' ' + description
-    if EXCLUDE.search(title) or JUNIOR.search(title):
+    if EXCLUDE.search(title) or (JUNIOR.search(title) and not (source['company'] == 'UEFA' and TICKETING.search(title))):
         return None
     ticketing = bool(TICKETING.search(title))
     operations = bool(OPERATIONS.search(title))
@@ -104,6 +147,12 @@ def classify(job, source):
     score = (76 if ticketing else 48) + (16 if leadership else 0)
     if category == 'sport':
         score += 5
+    if source['company'] == 'UEFA':
+        score += 15
+    if re.search(r'\\b(USA|United States|Canada|California|Denver|New York|Los Angeles|Colorado|Washington|Texas|Florida|Chicago|Boston)\\b', location, re.I):
+        score -= 30
+    if re.search(r'\\b(Switzerland|Europe|UK|United Kingdom|Germany|France|Spain|Italy|Netherlands|Portugal|Belgium|Austria|UAE|Qatar|Saudi Arabia|Dubai|Doha|Riyadh)\\b', location, re.I):
+        score += 12
     if visa.startswith('Work authorization'):
         score -= 25
     return visa, max(0, min(100, score))
