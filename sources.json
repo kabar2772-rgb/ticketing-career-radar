@@ -8,7 +8,7 @@
     {
       "company": "Jump",
       "adapter": "ashby",
-      "slug": "Jump"
+      "slug": "jump"
     },
     {
       "company": "AXS",
@@ -18,7 +18,22 @@
     {
       "company": "LA28",
       "adapter": "greenhouse",
-      "slug": "la28"
+      "slug": "la28careers"
+    },
+    {
+      "company": "AEG Worldwide",
+      "adapter": "greenhouse",
+      "slug": "aegworldwide"
+    },
+    {
+      "company": "NFL",
+      "adapter": "greenhouse",
+      "slug": "nflcareers"
+    },
+    {
+      "company": "Monumental Sports & Entertainment",
+      "adapter": "greenhouse",
+      "slug": "monumentalsports"
     }
   ]
 }
