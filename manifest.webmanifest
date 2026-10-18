@@ -1,0 +1,19 @@
+{
+  "id": "/ticketing-career-radar/",
+  "name": "Ticketing Career Radar",
+  "short_name": "Career Radar",
+  "description": "Personal ticketing leadership job radar",
+  "start_url": "/ticketing-career-radar/?app=1",
+  "scope": "/ticketing-career-radar/",
+  "display": "standalone",
+  "background_color": "#0c1421",
+  "theme_color": "#0c1421",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
