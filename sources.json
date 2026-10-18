@@ -1,6 +1,13 @@
 {
   "sources": [
     {
+      "company": "Global Sports Jobs",
+      "adapter": "external",
+      "slug": "https://www.globalsportsjobs.com/jobs",
+      "category": "sport",
+      "region": "worldwide"
+    },
+    {
       "company": "Michael Page",
       "adapter": "external",
       "slug": "https://www.michaelpage.ae/jobs",
