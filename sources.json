@@ -147,6 +147,27 @@
       "slug": "https://www.mackenziejones.com/",
       "category": "culture",
       "region": "gcc"
+    },
+    {
+      "company": "FIFA Careers",
+      "adapter": "external",
+      "slug": "https://jobs.fifa.com/",
+      "category": "sport",
+      "region": "worldwide"
+    },
+    {
+      "company": "Qatar Football Association",
+      "adapter": "external",
+      "slug": "https://www.qfa.qa/en/careers",
+      "category": "sport",
+      "region": "gcc"
+    },
+    {
+      "company": "Qatar Stars League",
+      "adapter": "external",
+      "slug": "https://career.qsl.qa/ar/jobs",
+      "category": "sport",
+      "region": "gcc"
     }
   ]
 }
