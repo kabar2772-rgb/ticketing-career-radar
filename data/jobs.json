@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-18T10:33:58.164853+00:00",
+  "updated": "2026-10-18T11:08:08.128015+00:00",
   "sources": [
     {
+      "source": "Global Sports Jobs",
+      "state": "ok",
+      "retrieved": 44,
+      "relevant": 5
+    },
+    {
       "source": "Michael Page",
-      "state": "error",
-      "detail": "Unknown adapter: external"
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
     },
     {
       "source": "UEFA",
@@ -39,7 +46,7 @@
       "source": "BDA Sports Partnerships",
       "state": "ok",
       "retrieved": 44,
-      "relevant": 2
+      "relevant": 1
     },
     {
       "source": "Xsolla Dubai Events",
@@ -69,31 +76,91 @@
       "source": "AXS",
       "state": "ok",
       "retrieved": 34,
-      "relevant": 1
+      "relevant": 0
     },
     {
       "source": "LA28",
       "state": "ok",
       "retrieved": 53,
-      "relevant": 12
+      "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
       "retrieved": 157,
-      "relevant": 24
+      "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
       "retrieved": 38,
-      "relevant": 1
+      "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
       "retrieved": 44,
-      "relevant": 3
+      "relevant": 0
+    },
+    {
+      "source": "Robert Walters",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Hays Middle East",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Charterhouse Middle East",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Cooper Fitch",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Kingston Stanley",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Carter Murray",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Mackenzie Jones",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "FIFA Careers",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Qatar Football Association",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
+    },
+    {
+      "source": "Qatar Stars League",
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
     }
   ],
   "jobs": [
@@ -109,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -125,7 +192,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -141,9 +208,41 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "uefa"
+    },
+    {
+      "id": "6def0dfd53543824a34a",
+      "company": "Global Sports Jobs",
+      "title": "Academy Recruitment Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/e02dad62-21cf-4d4b-b792-d74d83125932",
+      "location": "United Kingdom",
+      "description": "Academy Recruitment Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "5bcbfca45691cb7fbdd0",
+      "company": "Global Sports Jobs",
+      "title": "EURO Ceremonies Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/f29bde13-f8a7-4d73-833e-817aba90f6c4",
+      "location": "Switzerland",
+      "description": "EURO Ceremonies Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "f922d07ad84122a9f945",
@@ -157,9 +256,25 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "greenhouse"
+    },
+    {
+      "id": "7a38ae363a539aaf58cb",
+      "company": "Global Sports Jobs",
+      "title": "Senior Manager, Hospitality & Events",
+      "url": "https://www.globalsportsjobs.com/jobs/7023d617-0ba5-444b-8b2f-f45070f61d01",
+      "location": "United Kingdom",
+      "description": "Senior Manager, Hospitality & Events",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "59012f1500342b1efdb3",
@@ -173,7 +288,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -189,9 +304,25 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "lever"
+    },
+    {
+      "id": "7472104dfe88670f4341",
+      "company": "Global Sports Jobs",
+      "title": "Event Transport Integration and Readiness Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/03e62f8c-15c0-42e5-9312-f2cf127c540c",
+      "location": "Ireland",
+      "description": "Event Transport Integration and Readiness Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "e59fa9cef08981cd5366",
@@ -205,7 +336,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -221,9 +352,25 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:33:58.164853+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
       "status": "active",
       "source": "greenhouse"
+    },
+    {
+      "id": "90ddc2b2d26d6ec207ec",
+      "company": "Global Sports Jobs",
+      "title": "Vehicle Access and Parking Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/9362f2f3-388d-4777-b589-21b5de591a55",
+      "location": "Ireland",
+      "description": "Vehicle Access and Parking Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "status": "active",
+      "source": "external"
     }
   ]
 }
