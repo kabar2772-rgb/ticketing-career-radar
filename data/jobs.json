@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-18T10:31:23.361782+00:00",
+  "updated": "2026-10-18T10:33:58.164853+00:00",
   "sources": [
+    {
+      "source": "Michael Page",
+      "state": "error",
+      "detail": "Unknown adapter: external"
+    },
     {
       "source": "UEFA",
       "state": "ok",
@@ -104,7 +109,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -120,7 +125,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -136,7 +141,7 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -152,7 +157,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -168,7 +173,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -184,7 +189,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -200,7 +205,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -216,7 +221,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -232,7 +237,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -248,7 +253,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -264,7 +269,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -280,7 +285,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -296,7 +301,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -312,7 +317,7 @@
       "score": 72,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -328,7 +333,7 @@
       "score": 72,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -344,7 +349,7 @@
       "score": 72,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -360,7 +365,7 @@
       "score": 72,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -376,7 +381,7 @@
       "score": 72,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -392,7 +397,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -408,7 +413,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -424,7 +429,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -440,7 +445,7 @@
       "score": 67,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -456,7 +461,7 @@
       "score": 56,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -472,7 +477,7 @@
       "score": 56,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -488,7 +493,7 @@
       "score": 56,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -504,7 +509,7 @@
       "score": 51,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -520,7 +525,7 @@
       "score": 51,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -536,7 +541,7 @@
       "score": 44,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -552,7 +557,7 @@
       "score": 44,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -568,7 +573,7 @@
       "score": 44,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -584,7 +589,7 @@
       "score": 42,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:29:15.518138+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -600,7 +605,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -616,7 +621,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -632,7 +637,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -648,7 +653,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -664,7 +669,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -680,7 +685,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -696,7 +701,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -712,7 +717,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -728,7 +733,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -744,7 +749,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -760,7 +765,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -776,7 +781,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -792,7 +797,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -808,7 +813,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -824,7 +829,7 @@
       "score": 39,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -840,7 +845,7 @@
       "score": 26,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -856,7 +861,7 @@
       "score": 26,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -872,7 +877,7 @@
       "score": 26,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -888,7 +893,7 @@
       "score": 14,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:47:47.389900+00:00",
-      "last_seen": "2026-10-18T10:31:23.361782+00:00",
+      "last_seen": "2026-10-18T10:33:58.164853+00:00",
       "status": "active",
       "source": "greenhouse"
     }
