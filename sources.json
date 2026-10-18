@@ -91,6 +91,55 @@
       "company": "Monumental Sports & Entertainment",
       "adapter": "greenhouse",
       "slug": "monumentalsports"
+    },
+    {
+      "company": "Robert Walters",
+      "adapter": "external",
+      "slug": "https://www.robertwalters.ae/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Hays Middle East",
+      "adapter": "external",
+      "slug": "https://www.hays.ae/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Charterhouse Middle East",
+      "adapter": "external",
+      "slug": "https://www.charterhouseme.ae/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Cooper Fitch",
+      "adapter": "external",
+      "slug": "https://www.cooperfitch.ae/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Kingston Stanley",
+      "adapter": "external",
+      "slug": "https://www.kingstonstanley.com/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Carter Murray",
+      "adapter": "external",
+      "slug": "https://www.cartermurray.com/",
+      "category": "culture",
+      "region": "gcc"
+    },
+    {
+      "company": "Mackenzie Jones",
+      "adapter": "external",
+      "slug": "https://www.mackenziejones.com/",
+      "category": "culture",
+      "region": "gcc"
     }
   ]
 }
