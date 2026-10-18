@@ -55,9 +55,92 @@ class UEFAJobsParser(HTMLParser):
             self.parts = []
 
 
+
+def collect_public_jobs(source):
+    """Read publicly visible job cards and JobPosting structured data; no login or bypass."""
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin, urlparse
+    url = source['slug']
+    response = requests.get(url, headers={**HEADERS, 'User-Agent': 'Mozilla/5.0 (compatible; CareerRadar/1.0)'}, timeout=TIMEOUT)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, 'html.parser')
+    origin = urlparse(response.url).netloc.lower()
+    seen = set()
+    def emit(title, link, location='', employer=''):
+        link = urljoin(response.url, link or '')
+        parsed = urlparse(link)
+        title = clean(title)
+        location = clean(location)
+        if parsed.scheme not in ('http', 'https') or parsed.netloc.lower() != origin:
+            return None
+        if not title or len(title) > 180 or len(title) < 6 or not location or link in seen:
+            return None
+        if re.search(r'^(search|view all|apply now|read more|jobs|careers|sign in|register)', title, re.I):
+            return None
+        seen.add(link)
+        return dict(title=title, url=link, location=location, description=title + ' ' + clean(employer), published='')
+
+    for script in soup.find_all('script', type='application/ld+json'):
+        try:
+            payload = json.loads(script.string or script.get_text())
+        except (ValueError, TypeError):
+            continue
+        stack = [payload]
+        while stack:
+            node = stack.pop()
+            if isinstance(node, list):
+                stack.extend(node)
+                continue
+            if not isinstance(node, dict):
+                continue
+            stack.extend(v for k, v in node.items() if k in ('@graph', 'itemListElement'))
+            if node.get('@type') not in ('JobPosting', ['JobPosting']):
+                continue
+            places = node.get('jobLocation') or []
+            if isinstance(places, dict):
+                places = [places]
+            locations = []
+            for place in places:
+                address = (place.get('address') or {}) if isinstance(place, dict) else {}
+                if isinstance(address, dict):
+                    locations.append(', '.join(str(address.get(k) or '') for k in ('addressLocality', 'addressRegion', 'addressCountry')).strip(', '))
+            location = '; '.join(p for p in locations if p)
+            if not location and node.get('jobLocationType') == 'TELECOMMUTE':
+                location = 'Remote'
+            employer = node.get('hiringOrganization') or {}
+            result = emit(node.get('title'), node.get('url'), location, employer.get('name', '') if isinstance(employer, dict) else '')
+            if result:
+                yield result
+
+    # GSJ's new platform renders the first page of job cards server-side.
+    # Do not infer locations from unrelated surrounding cards.
+    if source['company'] == 'Global Sports Jobs':
+        for a in soup.select('a[href]'):
+            href = a.get('href', '')
+            if not re.search(r'/jobs/[0-9a-f]{8}-[0-9a-f-]{27,}', href, re.I):
+                continue
+            card = a.find_parent(['article', 'li'])
+            if card is None:
+                card = a.parent
+            if card is None:
+                continue
+            title = a.get_text(' ', strip=True)
+            if len(title) < 6 or title.lower() in ('view job', 'view details', 'apply', 'save job'):
+                heading = card.find(['h2', 'h3', 'h4'])
+                title = heading.get_text(' ', strip=True) if heading else ''
+            text = card.get_text(' ', strip=True)
+            country = re.search(r'\\b(United Kingdom|Switzerland|Germany|France|Spain|Italy|Netherlands|Belgium|Portugal|Austria|Ireland|Poland|Sweden|Denmark|Norway|Finland|UAE|United Arab Emirates|Qatar|Saudi Arabia|Brazil|United States|Canada|Australia|Japan|Singapore|India)\\b', text, re.I)
+            if not country:
+                continue
+            result = emit(title, href, country.group(0))
+            if result:
+                yield result
+
 def collect(source):
     adapter, slug = source['adapter'], source['slug']
-    if adapter == 'uefa':
+    if adapter == 'external':
+        yield from collect_public_jobs(source)
+    elif adapter == 'uefa':
         response = requests.get('https://www.uefa.com/about/jobs/', headers=HEADERS, timeout=TIMEOUT)
         response.raise_for_status()
         parser = UEFAJobsParser()
@@ -244,7 +327,7 @@ def main():
                     job['status'] = 'not found in latest source'
             stats.append({'source': source['company'], 'state': 'ok',
                           'retrieved': len(rows), 'relevant': relevant})
-        except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
+        except (requests.RequestException, ValueError, KeyError, TypeError, AttributeError) as exc:
             stats.append({'source': source['company'], 'state': 'error',
                           'detail': str(exc)[:200]})
     jobs = sorted(indexed.values(),
