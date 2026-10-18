@@ -14,6 +14,25 @@
       "category": "sport"
     },
     {
+      "company": "BDA Sports Partnerships",
+      "adapter": "greenhouse",
+      "slug": "bdainc",
+      "category": "sport"
+    },
+    {
+      "company": "Xsolla Dubai Events",
+      "adapter": "lever",
+      "slug": "xsolla",
+      "category": "venue",
+      "region": "gcc"
+    },
+    {
+      "company": "NFL UK & Ireland",
+      "adapter": "greenhouse",
+      "slug": "nfluk-ireland",
+      "category": "sport"
+    },
+    {
       "company": "Relevent Football Partners",
       "adapter": "ashby",
       "slug": "releventfp"
