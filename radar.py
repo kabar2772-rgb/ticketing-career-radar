@@ -229,21 +229,21 @@ YES_SPONSOR = re.compile(r'visa sponsorship (?:is )?(?:available|provided|offere
 
 
 US_LOCATION = re.compile(
-    r'\\b(?:USA|U\\.?S\\.?A\\.?|United States(?: of America)?|'
+    r'\b(?:USA|U\.?S\.?A\.?|United States(?: of America)?|'
     r'New York|Los Angeles|San Francisco|San Diego|San Jose|Chicago|Boston|'
-    r'Washington(?:,? D\\.?C\\.?)?|Seattle|Miami|Orlando|Tampa|Atlanta|'
+    r'Washington(?:,? D\.?C\.?)?|Seattle|Miami|Orlando|Tampa|Atlanta|'
     r'Dallas|Houston|Austin|Denver|Phoenix|Philadelphia|Detroit|'
     r'Las Vegas|Nashville|Charlotte|Minneapolis|Baltimore|Indianapolis|'
     r'California|Texas|Florida|Colorado|New Jersey|Pennsylvania|'
     r'Massachusetts|Illinois|Ohio|Virginia|Maryland|Arizona|Nevada|'
     r'Tennessee|North Carolina|Georgia|Connecticut|Oregon|Michigan|'
-    r'Wisconsin|Minnesota|Missouri|Utah|Kentucky|Louisiana)\\b',
+    r'Wisconsin|Minnesota|Missouri|Utah|Kentucky|Louisiana)\b',
     re.I
 )
 US_STATE_CODE = re.compile(
-    r'(?:,\\s*|\\b)(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)(?=\\b|$)'
+    r'(?:,\s*|\b)(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)(?=\b|$)'
 )
-MMA_EXCEPTION = re.compile(r'\\b(?:UFC|Ultimate Fighting Championship|Bellator(?: MMA)?)\\b', re.I)
+MMA_EXCEPTION = re.compile(r'\b(?:UFC|Ultimate Fighting Championship|Bellator(?: MMA)?)\b', re.I)
 
 def excluded_us_job(job, source):
     location = job.get('location') or ''
