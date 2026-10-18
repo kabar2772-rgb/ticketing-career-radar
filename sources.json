@@ -14,6 +14,24 @@
       "category": "sport"
     },
     {
+      "company": "Hawk-Eye Innovations (Sony Sports)",
+      "adapter": "ashby",
+      "slug": "hawkeyeinnovations",
+      "category": "sport"
+    },
+    {
+      "company": "vivenu (Ticketing Technology)",
+      "adapter": "lever",
+      "slug": "vivenu",
+      "category": "mixed"
+    },
+    {
+      "company": "ROLLER (Ticketing & Attractions)",
+      "adapter": "greenhouse",
+      "slug": "roller",
+      "category": "mixed"
+    },
+    {
       "company": "BDA Sports Partnerships",
       "adapter": "greenhouse",
       "slug": "bdainc",
