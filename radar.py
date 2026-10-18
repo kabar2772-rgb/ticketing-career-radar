@@ -69,7 +69,7 @@ def collect(source):
             if url in seen:
                 continue
             seen.add(url)
-            title = re.split(r'\\s+(?:Division:|Application deadline:)', label, maxsplit=1)[0].strip()
+            title = re.split(r'\s+(?:Division:|Application deadline:)', label, maxsplit=1)[0].strip()
             if title:
                 yield dict(title=title, url=url, location='Nyon, Switzerland', description=label, published='')
 
@@ -140,7 +140,7 @@ EXCLUDE = re.compile(r'\b(software engineer|software developer|developer|devops|
 SPORT = re.compile(r'\b(sport|sports|football|soccer|fifa|uefa|formula\s*1|f1|motogp|racing|motorsport|olympic|stadium|arena|tournament|grand prix|cricket|tennis|basketball|rugby|club|league|matchday)\b', re.I)
 CULTURE = re.compile(r'\b(museum|museums|theatre|theater|gallery|galleries|exhibition|theme park|amusement park|entertainment|concert|performing arts|attraction|cultural|heritage|visitor attraction)\b', re.I)
 GCC = re.compile(r'\b(uae|united arab emirates|dubai|abu dhabi|sharjah|ajman|ras al khaimah|fujairah|qatar|doha|lusail|saudi arabia|saudi|ksa|riyadh|jeddah|jidda|dammam|khobar|alula|al ula|neom|tabuk|makkah|mecca|medina|madinah)\b', re.I)
-NO_SPONSOR = re.compile(r'(?:does not|do not|will not|cannot|can not)\\s+(?:offer|provide)\\s+(?:work\\s+)?(?:visa\\s+)?sponsorship|(?:no|not|without)\s+(?:visa\s+)?sponsorship|(?:must|should)\s+(?:already\s+)?(?:have|hold|possess)\s+(?:a\s+)?(?:valid\s+)?(?:right|authorization|permission)\s+to\s+work|not\s+(?:able|willing)\s+to\s+sponsor', re.I)
+NO_SPONSOR = re.compile(r'(?:does not|do not|will not|cannot|can not)\s+(?:offer|provide)\s+(?:work\s+)?(?:visa\s+)?sponsorship|(?:no|not|without)\s+(?:visa\s+)?sponsorship|(?:must|should)\s+(?:already\s+)?(?:have|hold|possess)\s+(?:a\s+)?(?:valid\s+)?(?:right|authorization|permission)\s+to\s+work|not\s+(?:able|willing)\s+to\s+sponsor', re.I)
 YES_SPONSOR = re.compile(r'visa sponsorship (?:is )?(?:available|provided|offered)|(?:provide|offer)\s+(?:visa\s+)?sponsorship|work permit (?:support|assistance|provided)|relocation and visa (?:support|assistance)', re.I)
 
 
@@ -154,7 +154,7 @@ def classify(job, source):
     ticketing = bool(TICKETING.search(title))
     operations = bool(OPERATIONS.search(title))
     leadership = bool(LEADERSHIP.search(title))
-    if not (ticketing or (operations and leadership) or (source.get('category') == 'sport' and leadership and re.search(r'\\b(partnership|commercial|accreditation|overlay|ceremonies|guest services|premium experience)\\b', title, re.I))):
+    if not (ticketing or (operations and leadership) or (source.get('category') == 'sport' and leadership and re.search(r'\b(partnership|commercial|accreditation|overlay|ceremonies|guest services|premium experience)\b', title, re.I))):
         return None
     if not leadership and not ticketing:
         return None
@@ -163,7 +163,10 @@ def classify(job, source):
     category = source.get('category', 'mixed').lower()
     sport = bool(SPORT.search(combined[:2500]))
     culture = bool(CULTURE.search(combined[:2500]))
-    if category == 'culture' or (category == 'mixed' and culture and not sport):
+    if category == 'venue':
+        if not GCC.search(location):
+            return None
+    elif category == 'culture' or (category == 'mixed' and culture and not sport):
         if not GCC.search(location):
             return None
         category = 'culture'
@@ -172,7 +175,7 @@ def classify(job, source):
     else:
         # Unclassified employers: allow ticketing leadership globally;
         # broader operations only when explicitly sports-related.
-        if not ticketing:
+        if not ticketing and category != 'venue':
             return None
 
     if NO_SPONSOR.search(description):
@@ -186,9 +189,9 @@ def classify(job, source):
         score += 5
     if source['company'] == 'UEFA':
         score += 15
-    if re.search(r'\\b(USA|United States|Canada|California|Denver|New York|Los Angeles|Colorado|Washington|Texas|Florida|Chicago|Boston)\\b', location, re.I):
+    if re.search(r'\b(USA|United States|Canada|California|Denver|New York|Los Angeles|Colorado|Washington|Texas|Florida|Chicago|Boston)\b', location, re.I):
         score -= 30
-    if re.search(r'\\b(Switzerland|Europe|UK|United Kingdom|Germany|France|Spain|Italy|Netherlands|Portugal|Belgium|Austria|UAE|Qatar|Saudi Arabia|Dubai|Doha|Riyadh)\\b', location, re.I):
+    if re.search(r'\b(Switzerland|Europe|UK|United Kingdom|Germany|France|Spain|Italy|Netherlands|Portugal|Belgium|Austria|UAE|Qatar|Saudi Arabia|Dubai|Doha|Riyadh)\b', location, re.I):
         score += 12
     if visa.startswith('Work authorization'):
         score -= 25
