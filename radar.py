@@ -129,7 +129,7 @@ def collect_public_jobs(source):
                 heading = card.find(['h2', 'h3', 'h4'])
                 title = heading.get_text(' ', strip=True) if heading else ''
             text = card.get_text(' ', strip=True)
-            country = re.search(r'\\b(United Kingdom|Switzerland|Germany|France|Spain|Italy|Netherlands|Belgium|Portugal|Austria|Ireland|Poland|Sweden|Denmark|Norway|Finland|UAE|United Arab Emirates|Qatar|Saudi Arabia|Brazil|United States|Canada|Australia|Japan|Singapore|India)\\b', text, re.I)
+            country = re.search(r'\b(United Kingdom|Switzerland|Germany|France|Spain|Italy|Netherlands|Belgium|Portugal|Austria|Ireland|Poland|Sweden|Denmark|Norway|Finland|UAE|United Arab Emirates|Qatar|Saudi Arabia|Brazil|United States|Canada|Australia|Japan|Singapore|India)\b', text, re.I)
             if not country:
                 continue
             result = emit(title, href, country.group(0))
