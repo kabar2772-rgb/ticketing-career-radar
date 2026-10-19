@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T11:08:08.128015+00:00",
+  "updated": "2026-10-19T06:19:23.136139+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 45,
       "relevant": 5
     },
     {
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 23,
+      "retrieved": 22,
       "relevant": 0
     },
     {
@@ -39,7 +39,7 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 15,
+      "retrieved": 16,
       "relevant": 0
     },
     {
@@ -81,7 +81,7 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 53,
+      "retrieved": 54,
       "relevant": 0
     },
     {
@@ -176,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +192,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -208,7 +208,7 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -224,7 +224,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
     },
@@ -240,7 +240,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
     },
@@ -256,7 +256,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -272,7 +272,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
     },
@@ -288,7 +288,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -304,7 +304,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -320,7 +320,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
     },
@@ -336,7 +336,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -352,7 +352,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -368,7 +368,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
     }
