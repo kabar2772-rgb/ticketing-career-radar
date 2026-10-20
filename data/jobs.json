@@ -1,11 +1,10 @@
 {
-  "updated": "2026-10-19T06:19:23.136139+00:00",
+  "updated": "2026-10-20T06:16:54.375925+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
-      "state": "ok",
-      "retrieved": 45,
-      "relevant": 5
+      "state": "error",
+      "detail": "HTTPSConnectionPool(host='www.globalsportsjobs.com', port=443): Read timed out. (read timeout=20)"
     },
     {
       "source": "Michael Page",
@@ -16,8 +15,8 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 8,
-      "relevant": 3
+      "retrieved": 7,
+      "relevant": 2
     },
     {
       "source": "Formula E",
@@ -33,25 +32,25 @@
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 29,
+      "retrieved": 31,
       "relevant": 0
     },
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 16,
+      "retrieved": 17,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 45,
       "relevant": 1
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 192,
+      "retrieved": 193,
       "relevant": 2
     },
     {
@@ -87,19 +86,19 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 157,
+      "retrieved": 156,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 38,
+      "retrieved": 36,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 43,
       "relevant": 0
     },
     {
@@ -165,22 +164,6 @@
   ],
   "jobs": [
     {
-      "id": "3fffdf5f5d12d4be1bb6",
-      "company": "UEFA",
-      "title": "Ticketing Operations Coordinator",
-      "url": "https://emp.jobylon.com/jobs/389115-uefa-ticketing-operations-coordinator/",
-      "location": "Nyon, Switzerland",
-      "description": "Ticketing Operations Coordinator Division: UEFA Events SA Application deadline: 19/10/2026",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 100,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
-      "status": "active",
-      "source": "uefa"
-    },
-    {
       "id": "b569843789c5dc70a594",
       "company": "UEFA",
       "title": "Ticketing Venue Configuration Assistant",
@@ -192,7 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -208,7 +191,7 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -256,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -288,7 +271,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -304,7 +287,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -336,7 +319,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -352,7 +335,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -371,6 +354,22 @@
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "active",
       "source": "external"
+    },
+    {
+      "id": "3fffdf5f5d12d4be1bb6",
+      "company": "UEFA",
+      "title": "Ticketing Operations Coordinator",
+      "url": "https://emp.jobylon.com/jobs/389115-uefa-ticketing-operations-coordinator/",
+      "location": "Nyon, Switzerland",
+      "description": "Ticketing Operations Coordinator Division: UEFA Events SA Application deadline: 19/10/2026",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 100,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-17T17:57:21.242896+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "status": "not found in latest source",
+      "source": "uefa"
     }
   ]
 }
