@@ -1,10 +1,11 @@
 {
-  "updated": "2026-10-20T06:16:54.375925+00:00",
+  "updated": "2026-10-21T06:18:16.959645+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
-      "state": "error",
-      "detail": "HTTPSConnectionPool(host='www.globalsportsjobs.com', port=443): Read timed out. (read timeout=20)"
+      "state": "ok",
+      "retrieved": 42,
+      "relevant": 4
     },
     {
       "source": "Michael Page",
@@ -15,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 7,
+      "retrieved": 8,
       "relevant": 2
     },
     {
@@ -26,25 +27,25 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 22,
+      "retrieved": 24,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 31,
+      "retrieved": 33,
       "relevant": 0
     },
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 17,
+      "retrieved": 18,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 45,
+      "retrieved": 46,
       "relevant": 1
     },
     {
@@ -62,8 +63,8 @@
     {
       "source": "Relevent Football Partners",
       "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "retrieved": 1,
+      "relevant": 1
     },
     {
       "source": "Jump",
@@ -80,25 +81,25 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 54,
+      "retrieved": 50,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 156,
+      "retrieved": 155,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 35,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 42,
       "relevant": 0
     },
     {
@@ -164,20 +165,36 @@
   ],
   "jobs": [
     {
-      "id": "b569843789c5dc70a594",
+      "id": "4de1efc08aa33d802ad7",
       "company": "UEFA",
-      "title": "Ticketing Venue Configuration Assistant",
-      "url": "https://emp.jobylon.com/jobs/389729-uefa-ticketing-venue-configuration-assistant/",
+      "title": "Ticketing Administration Specialist",
+      "url": "https://emp.jobylon.com/jobs/391319-uefa-ticketing-administration-specialist/",
       "location": "Nyon, Switzerland",
-      "description": "Ticketing Venue Configuration Assistant Division: UEFA Events SA Application deadline: 25/10/2026",
+      "description": "Ticketing Administration Specialist Division: UEFA Events SA Application deadline: 30/10/2026",
       "published": "",
       "visa": "Not specified — verify",
       "score": 100,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "first_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "uefa"
+    },
+    {
+      "id": "9ef6e500e7ae8ffe4068",
+      "company": "Relevent Football Partners",
+      "title": "Ticketing Manager",
+      "url": "https://jobs.ashbyhq.com/releventfp/618a611f-1cdf-41a0-8fc5-c3387517cf88",
+      "location": "London",
+      "description": "Job Title: Ticketing Manager Location: London Role Type: Full Time Reports to: Global Ticketing Lead About Relevent Football Partners Relevent Football Partners is a wholly owned subsidiary of Relevent, purpose-built to commercialise the UEFA men’s club competitions globally. An independent entity, Relevent Football Partners is tasked with providing UC3 — the joint venture between UEFA and the European Football Clubs (EFC) — strategic and sales support in the worldwide marketing and sale of media, sponsorship, and licensing rights for the UEFA Champions League, UEFA Europa League, UEFA Conference League, UEFA Super Cup, UEFA Youth League, and the UEFA Futsal Champions League. Following the UC3 tender process, Relevent Football Partners was awarded the commercial rights to the UEFA men’s club competitions (Champions League, Europa League and Conference League) on a global basis for the 2027 to 2033 cycle. As such, Relevent Football Partners is now seeking to build a truly world-class business focused on the monetisation, management and delivery of these commercial rights. Position Summary We are seeking a highly experienced ticketing professional to support the ticketing management and operational delivery of the UEFA Men’s Club Competitions commercial partner ticketing inventory across both the season and the Finals. This includes the UEFA Champions League (UCL), Europa League (UEL), Conference league (UCL) and the UEFA Super Cup. This is a total commercial inventory of over 250,000 tickets on an annual basis. This role is pivotal in ensuring a seamless, world‐class experience for UEFA Men’s Club Competitions commercial partners. Reporting directly to the Global Ticketing Lead, you will work collaboratively with internal teams, client stakeholders, technology providers, and external partners to oversee the end‐to‐end ticketing journey. This is a fast‐paced and high‐profile environment, requiring exceptional operational acumen, stakeholder management expertise, and an unwavering commitment to excellence. Key Responsibilities Ticket Operations · Support day-to-day operations across the ticketing lifecycle. · Develop a comprehensive understanding of UEFA ticketing processes and systems. · Be the main Relevent Football Partners point of contact for commercial partners, UC3, and UEFA ticketing teams. · Deliver season and final ticketing operations including requests, deadlines, inventory management, block allocations and financial reconciliation. · Manage day-to-day queries with ticketing providers, suppliers and partners as required. · Document system workflows and user guides. · Execute the ticket allocation process in accordance with business priorities. · Administer internal ticketing systems and processes for day to day business. · Coordinate and deliver on-site matchday ticketing logistics for commercial partners, including mobile ticketing troubleshooting, will call, and box office supervision. · Deliver matchday operations & resolutions plan for commercial partner ticketing issues. · Resolve account and ticketing issues promptly, professionally, and with high attention to detail · Post‐event reporting. Stakeholder Management& Collaboration · Work cross-functionally with Media, Sponsorship & Licensing teams to manage commercial ticketing inventory, ensure project deadlines are met and ensure formal ticketing processes are adhered to. · Ensure all UEFA ticketing deadlines are met and ticket requests submitted in a timely manner by all stakeholders and partners. Experience required: · Proven track record of delivering ticketing programmes for major international sporting events – either from an agency or rights holder background. · Strong project management and people skills. · Exceptional stakeholder management and client communication skills. · Comprehensive knowledge and familiarity with event ticketing tools and guest management systems. Skills required: · Fluent use of English language in both verbal and written communications. · Exceptional project management, attention to detail, time management and organisational skills. · Adept at building strong relationships and delivering exceptional client service. · Excellent communication skills (written and verbal) showing confidence in engaging with internal and external stakeholders. · Creative problem solving with a strong sense of proactivity and ownership. Personal Attributes: · A passion for the difference sport makes around the world · The ability to build trusted, long-term relationships · A collaborative, low-ego approach and a willingness to help · High personal standards, with resourcefulness and tenacity · Clear, proactive communicator · A strong sense of ownership and urgency, with high levels of honesty and integrity Why Join Us At Relevent Football Partners, you’ll be part of a passionate, global team committed to shaping the future of football in innovative and impactful ways. We offer a collaborative culture, exciting growth opportunities, and the chance to make a real difference in one of the world’s most beloved sports.",
+      "published": "2026-10-20T11:31:37.278+00:00",
+      "visa": "Not specified — verify",
+      "score": 97,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "active",
+      "source": "ashby"
     },
     {
       "id": "0e33a6a2c3dfa5a3caaf",
@@ -191,9 +208,25 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "uefa"
+    },
+    {
+      "id": "b1ef270aa72f2b879bd3",
+      "company": "Global Sports Jobs",
+      "title": "Ticketing Administration Specialist",
+      "url": "https://www.globalsportsjobs.com/jobs/4a718673-6861-4e6f-8ebd-4109dac86998",
+      "location": "Switzerland",
+      "description": "Ticketing Administration Specialist",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 93,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "6def0dfd53543824a34a",
@@ -207,23 +240,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "5bcbfca45691cb7fbdd0",
-      "company": "Global Sports Jobs",
-      "title": "EURO Ceremonies Manager",
-      "url": "https://www.globalsportsjobs.com/jobs/f29bde13-f8a7-4d73-833e-817aba90f6c4",
-      "location": "Switzerland",
-      "description": "EURO Ceremonies Manager",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,25 +256,9 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "greenhouse"
-    },
-    {
-      "id": "7a38ae363a539aaf58cb",
-      "company": "Global Sports Jobs",
-      "title": "Senior Manager, Hospitality & Events",
-      "url": "https://www.globalsportsjobs.com/jobs/7023d617-0ba5-444b-8b2f-f45070f61d01",
-      "location": "United Kingdom",
-      "description": "Senior Manager, Hospitality & Events",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "59012f1500342b1efdb3",
@@ -271,7 +272,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -287,7 +288,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -303,7 +304,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "external"
     },
@@ -319,7 +320,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -335,7 +336,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -351,7 +352,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "active",
       "source": "external"
     },
@@ -370,6 +371,54 @@
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "not found in latest source",
       "source": "uefa"
+    },
+    {
+      "id": "b569843789c5dc70a594",
+      "company": "UEFA",
+      "title": "Ticketing Venue Configuration Assistant",
+      "url": "https://emp.jobylon.com/jobs/389729-uefa-ticketing-venue-configuration-assistant/",
+      "location": "Nyon, Switzerland",
+      "description": "Ticketing Venue Configuration Assistant Division: UEFA Events SA Application deadline: 25/10/2026",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 100,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-17T17:57:21.242896+00:00",
+      "last_seen": "2026-10-20T06:16:54.375925+00:00",
+      "status": "not found in latest source",
+      "source": "uefa"
+    },
+    {
+      "id": "5bcbfca45691cb7fbdd0",
+      "company": "Global Sports Jobs",
+      "title": "EURO Ceremonies Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/f29bde13-f8a7-4d73-833e-817aba90f6c4",
+      "location": "Switzerland",
+      "description": "EURO Ceremonies Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "7a38ae363a539aaf58cb",
+      "company": "Global Sports Jobs",
+      "title": "Senior Manager, Hospitality & Events",
+      "url": "https://www.globalsportsjobs.com/jobs/7023d617-0ba5-444b-8b2f-f45070f61d01",
+      "location": "United Kingdom",
+      "description": "Senior Manager, Hospitality & Events",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     }
   ]
 }
