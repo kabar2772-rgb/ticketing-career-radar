@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T06:18:16.959645+00:00",
+  "updated": "2026-10-22T06:19:32.393557+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 42,
-      "relevant": 4
+      "retrieved": 45,
+      "relevant": 2
     },
     {
       "source": "Michael Page",
@@ -39,7 +39,7 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 18,
+      "retrieved": 19,
       "relevant": 0
     },
     {
@@ -51,14 +51,14 @@
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 193,
+      "retrieved": 189,
       "relevant": 2
     },
     {
       "source": "NFL UK & Ireland",
       "state": "ok",
-      "retrieved": 4,
-      "relevant": 2
+      "retrieved": 2,
+      "relevant": 1
     },
     {
       "source": "Relevent Football Partners",
@@ -75,7 +75,7 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 34,
+      "retrieved": 36,
       "relevant": 0
     },
     {
@@ -87,19 +87,19 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 155,
+      "retrieved": 157,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 36,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 42,
+      "retrieved": 39,
       "relevant": 0
     },
     {
@@ -176,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +192,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -208,7 +208,7 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -224,23 +224,23 @@
       "score": 93,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "external"
     },
     {
-      "id": "6def0dfd53543824a34a",
+      "id": "238e7025650dd5f534df",
       "company": "Global Sports Jobs",
-      "title": "Academy Recruitment Operations Manager",
-      "url": "https://www.globalsportsjobs.com/jobs/e02dad62-21cf-4d4b-b792-d74d83125932",
+      "title": "Ticketing Administrator (6-month FTC)",
+      "url": "https://www.globalsportsjobs.com/jobs/906a8ec9-0203-4a14-baef-ffb1db194cb2",
       "location": "United Kingdom",
-      "description": "Academy Recruitment Operations Manager",
+      "description": "Ticketing Administrator (6-month FTC)",
       "published": "",
       "visa": "Not specified — verify",
-      "score": 81,
+      "score": 93,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "first_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "external"
     },
@@ -256,7 +256,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -272,7 +272,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -288,25 +288,9 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "lever"
-    },
-    {
-      "id": "7472104dfe88670f4341",
-      "company": "Global Sports Jobs",
-      "title": "Event Transport Integration and Readiness Manager",
-      "url": "https://www.globalsportsjobs.com/jobs/03e62f8c-15c0-42e5-9312-f2cf127c540c",
-      "location": "Ireland",
-      "description": "Event Transport Integration and Readiness Manager",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 69,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "e59fa9cef08981cd5366",
@@ -320,41 +304,9 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
       "status": "active",
       "source": "greenhouse"
-    },
-    {
-      "id": "15f695101fc25cfa8d00",
-      "company": "NFL UK & Ireland",
-      "title": "Senior Manager, Event Operations, UK (External Agency Position)",
-      "url": "https://job-boards.greenhouse.io/nfluk-ireland/jobs/5386325008",
-      "location": "London",
-      "description": "The NFL Event Operations team is seeking an experienced and highly organized Senior Manager of Event Operations to lead the planning, overlay and delivery of NFL International Games across the UK and Europe. Reporting to the Director of Event Operations, this role will provide senior operational leadership from initial planning and stadium overlay through to Gameday delivery and post-event assessment. The role will lead an event operations team and work closely with stadium and city partners, NFL clubs, vendors and a broad range of stakeholders to deliver world-class NFL games in Europe. The successful candidate will bring a strong understanding of complex live-event environments, exceptional project management skills and the ability to lead confidently in a high-pressure, fast-paced environment. The role will be primarily based at the NFL UK offices in London, with relocation to host stadiums during game weeks. Frequent international travel, as well as evening and weekend work will be required. This is an exciting opportunity to join a dynamic and growing team, with responsibility for high-profile International Games in Europe and opportunities to contribute to the wider portfolio of NFL League events. This job posting is for a position with one of the NFL’s third-party agency partners that provides services to the NFL. The individual selected for this role will be an employee of that third-party agency and not the NFL. All compensation, benefits, and other terms and conditions of employment are handled by the agency. The assignment to provide services to the NFL will be limited in duration but may be extended for an additional period by agreement between the NFL and the agency. Responsibilities include, but are not limited to: Serve as a senior operational lead on site, providing direction and making real-time decisions throughout planning, event build, Gameday and load out. Lead the development and delivery of comprehensive operational overlay plans for NFL International Games at host stadiums. Lead stadium transformation, construction and conversion planning, ensuring all requirements are delivered safely, efficiently and to the required NFL standard. Develop and manage detailed operational plans, master schedules, construction timelines and event readiness documentation. Lead coordination across all internal and external stakeholders, including stadium and city partners, Ticketing, Broadcast, Football Operations, Game Presentation, Security, Marketing, Partnerships and other relevant functions. Lead the management and delivery of third-party vendors, including contract deliverables, operational requirements and on-site performance. Manage the stadium operations budget, including forecasting, cost control, purchase orders and payments. Provide clear operational leadership and decision-making throughout game week, proactively identifying and resolving issues and escalating critical matters where appropriate. Support the planning and delivery of sponsor and partner activations within the wider event environment. Ensure appropriate health, safety and operational compliance standards are maintained throughout planning, build and event delivery. Work closely with relevant stakeholders to develop and implement contingency and risk-management plans. Lead post-event debriefs, assessments and reporting, identifying lessons learned and opportunities for continuous improvement. Contribute to the development of operational best practices, processes and standards for future International Games and wider NFL events. Experience & Qualifications Extensive knowledge and proven experience planning and delivering complex, large-scale live events. Educated to degree or equivalent professional experience. 8+ years' experience working within a stadium, venue, live events or comparable operational environment. Demonstrated experience within professional sports, entertainment, major events or complex project planning and delivery. Strong project and program management skills, with the ability to manage multiple workstreams, stakeholders and competing priorities. Proven experience leading and developing an operational delivery team. Experience managing external vendors, contractors and commercial partners. Strong understanding of stadium operations, event overlay, event infrastructure and live-event logistics. Experience operating in an international or multi-market environment is desirable. Knowledge or understanding of American Football and the NFL is desirable. Leadership Attributes The successful candidate will demonstrate: Exceptional organization and time management, with the ability to prioritize effectively and consistently deliver against critical deadlines. Strong judgment and problem-solving skills, with the ability to anticipate issues, develop solutions and make confident decisions in high-pressure environments. The ability to manage upwards , provide clear recommendations and communicate effectively with senior leaders. Excellent communication and interpersonal skills, with the ability to build alignment and drive collaboration across multiple teams and functions. Strong presentation skills, with the confidence to communicate operational plans, risks and key decisions to large audiences and senior stakeholders. Adaptability and resilience, with the ability to remain calm, focused and solutions-oriented in a constantly changing live-event environment. Exceptional stakeholder management skills, with the ability to influence, negotiate and build trusted relationships with internal colleagues, stadium and city partners, vendors and other external stakeholders. A collaborative leadership style, with the ability to motivate teams, create accountability and bring people together around a common goal. High levels of integrity, professionalism and personal accountability. An enthusiastic, proactive and positive approach, with a genuine commitment to delivering the highest standards of operational excellence. People Management Proven experience managing and leading a team of at least three direct reports or equivalent operational resources . Ability to provide clear direction, priorities and communication throughout complex event planning and delivery. Demonstrated track record of coaching, developing and supporting team members to achieve their full potential. Ability to build a high-performing team culture based on accountability, collaboration and continuous improvement. Terms / Expected Hours of Work Requires extensive travel to host stadiums and other event locations across the UK and Europe. Requires flexibility to work evenings, weekends and holidays, particularly during event and game weeks.",
-      "published": "2026-09-17T16:20:36-04:00",
-      "visa": "Not specified — verify",
-      "score": 69,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
-      "status": "active",
-      "source": "greenhouse"
-    },
-    {
-      "id": "90ddc2b2d26d6ec207ec",
-      "company": "Global Sports Jobs",
-      "title": "Vehicle Access and Parking Operations Manager",
-      "url": "https://www.globalsportsjobs.com/jobs/9362f2f3-388d-4777-b589-21b5de591a55",
-      "location": "Ireland",
-      "description": "Vehicle Access and Parking Operations Manager",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 69,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T11:08:08.128015+00:00",
-      "last_seen": "2026-10-21T06:18:16.959645+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "3fffdf5f5d12d4be1bb6",
@@ -389,6 +341,22 @@
       "source": "uefa"
     },
     {
+      "id": "6def0dfd53543824a34a",
+      "company": "Global Sports Jobs",
+      "title": "Academy Recruitment Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/e02dad62-21cf-4d4b-b792-d74d83125932",
+      "location": "United Kingdom",
+      "description": "Academy Recruitment Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
       "id": "5bcbfca45691cb7fbdd0",
       "company": "Global Sports Jobs",
       "title": "EURO Ceremonies Manager",
@@ -417,6 +385,54 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "7472104dfe88670f4341",
+      "company": "Global Sports Jobs",
+      "title": "Event Transport Integration and Readiness Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/03e62f8c-15c0-42e5-9312-f2cf127c540c",
+      "location": "Ireland",
+      "description": "Event Transport Integration and Readiness Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "15f695101fc25cfa8d00",
+      "company": "NFL UK & Ireland",
+      "title": "Senior Manager, Event Operations, UK (External Agency Position)",
+      "url": "https://job-boards.greenhouse.io/nfluk-ireland/jobs/5386325008",
+      "location": "London",
+      "description": "The NFL Event Operations team is seeking an experienced and highly organized Senior Manager of Event Operations to lead the planning, overlay and delivery of NFL International Games across the UK and Europe. Reporting to the Director of Event Operations, this role will provide senior operational leadership from initial planning and stadium overlay through to Gameday delivery and post-event assessment. The role will lead an event operations team and work closely with stadium and city partners, NFL clubs, vendors and a broad range of stakeholders to deliver world-class NFL games in Europe. The successful candidate will bring a strong understanding of complex live-event environments, exceptional project management skills and the ability to lead confidently in a high-pressure, fast-paced environment. The role will be primarily based at the NFL UK offices in London, with relocation to host stadiums during game weeks. Frequent international travel, as well as evening and weekend work will be required. This is an exciting opportunity to join a dynamic and growing team, with responsibility for high-profile International Games in Europe and opportunities to contribute to the wider portfolio of NFL League events. This job posting is for a position with one of the NFL’s third-party agency partners that provides services to the NFL. The individual selected for this role will be an employee of that third-party agency and not the NFL. All compensation, benefits, and other terms and conditions of employment are handled by the agency. The assignment to provide services to the NFL will be limited in duration but may be extended for an additional period by agreement between the NFL and the agency. Responsibilities include, but are not limited to: Serve as a senior operational lead on site, providing direction and making real-time decisions throughout planning, event build, Gameday and load out. Lead the development and delivery of comprehensive operational overlay plans for NFL International Games at host stadiums. Lead stadium transformation, construction and conversion planning, ensuring all requirements are delivered safely, efficiently and to the required NFL standard. Develop and manage detailed operational plans, master schedules, construction timelines and event readiness documentation. Lead coordination across all internal and external stakeholders, including stadium and city partners, Ticketing, Broadcast, Football Operations, Game Presentation, Security, Marketing, Partnerships and other relevant functions. Lead the management and delivery of third-party vendors, including contract deliverables, operational requirements and on-site performance. Manage the stadium operations budget, including forecasting, cost control, purchase orders and payments. Provide clear operational leadership and decision-making throughout game week, proactively identifying and resolving issues and escalating critical matters where appropriate. Support the planning and delivery of sponsor and partner activations within the wider event environment. Ensure appropriate health, safety and operational compliance standards are maintained throughout planning, build and event delivery. Work closely with relevant stakeholders to develop and implement contingency and risk-management plans. Lead post-event debriefs, assessments and reporting, identifying lessons learned and opportunities for continuous improvement. Contribute to the development of operational best practices, processes and standards for future International Games and wider NFL events. Experience & Qualifications Extensive knowledge and proven experience planning and delivering complex, large-scale live events. Educated to degree or equivalent professional experience. 8+ years' experience working within a stadium, venue, live events or comparable operational environment. Demonstrated experience within professional sports, entertainment, major events or complex project planning and delivery. Strong project and program management skills, with the ability to manage multiple workstreams, stakeholders and competing priorities. Proven experience leading and developing an operational delivery team. Experience managing external vendors, contractors and commercial partners. Strong understanding of stadium operations, event overlay, event infrastructure and live-event logistics. Experience operating in an international or multi-market environment is desirable. Knowledge or understanding of American Football and the NFL is desirable. Leadership Attributes The successful candidate will demonstrate: Exceptional organization and time management, with the ability to prioritize effectively and consistently deliver against critical deadlines. Strong judgment and problem-solving skills, with the ability to anticipate issues, develop solutions and make confident decisions in high-pressure environments. The ability to manage upwards , provide clear recommendations and communicate effectively with senior leaders. Excellent communication and interpersonal skills, with the ability to build alignment and drive collaboration across multiple teams and functions. Strong presentation skills, with the confidence to communicate operational plans, risks and key decisions to large audiences and senior stakeholders. Adaptability and resilience, with the ability to remain calm, focused and solutions-oriented in a constantly changing live-event environment. Exceptional stakeholder management skills, with the ability to influence, negotiate and build trusted relationships with internal colleagues, stadium and city partners, vendors and other external stakeholders. A collaborative leadership style, with the ability to motivate teams, create accountability and bring people together around a common goal. High levels of integrity, professionalism and personal accountability. An enthusiastic, proactive and positive approach, with a genuine commitment to delivering the highest standards of operational excellence. People Management Proven experience managing and leading a team of at least three direct reports or equivalent operational resources . Ability to provide clear direction, priorities and communication throughout complex event planning and delivery. Demonstrated track record of coaching, developing and supporting team members to achieve their full potential. Ability to build a high-performing team culture based on accountability, collaboration and continuous improvement. Terms / Expected Hours of Work Requires extensive travel to host stadiums and other event locations across the UK and Europe. Requires flexibility to work evenings, weekends and holidays, particularly during event and game weeks.",
+      "published": "2026-09-17T16:20:36-04:00",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T10:30:04.421244+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "greenhouse"
+    },
+    {
+      "id": "90ddc2b2d26d6ec207ec",
+      "company": "Global Sports Jobs",
+      "title": "Vehicle Access and Parking Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/9362f2f3-388d-4777-b589-21b5de591a55",
+      "location": "Ireland",
+      "description": "Vehicle Access and Parking Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T11:08:08.128015+00:00",
+      "last_seen": "2026-10-21T06:18:16.959645+00:00",
       "status": "not found in latest source",
       "source": "external"
     }
