@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T06:19:32.393557+00:00",
+  "updated": "2026-10-23T06:18:59.561421+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
       "retrieved": 45,
-      "relevant": 2
+      "relevant": 1
     },
     {
       "source": "Michael Page",
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 24,
+      "retrieved": 25,
       "relevant": 0
     },
     {
@@ -39,7 +39,7 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 19,
+      "retrieved": 18,
       "relevant": 0
     },
     {
@@ -51,7 +51,7 @@
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 189,
+      "retrieved": 188,
       "relevant": 2
     },
     {
@@ -63,7 +63,7 @@
     {
       "source": "Relevent Football Partners",
       "state": "ok",
-      "retrieved": 1,
+      "retrieved": 2,
       "relevant": 1
     },
     {
@@ -75,7 +75,7 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 35,
       "relevant": 0
     },
     {
@@ -87,26 +87,25 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 157,
+      "retrieved": 152,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 38,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 39,
+      "retrieved": 40,
       "relevant": 0
     },
     {
       "source": "Robert Walters",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "403 Client Error: Forbidden for url: https://www.robertwalters.ae/"
     },
     {
       "source": "Hays Middle East",
@@ -140,9 +139,8 @@
     },
     {
       "source": "Mackenzie Jones",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "HTTPSConnectionPool(host='www.mackenziejones.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
     },
     {
       "source": "FIFA Careers",
@@ -176,7 +174,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +190,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -208,25 +206,9 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "uefa"
-    },
-    {
-      "id": "b1ef270aa72f2b879bd3",
-      "company": "Global Sports Jobs",
-      "title": "Ticketing Administration Specialist",
-      "url": "https://www.globalsportsjobs.com/jobs/4a718673-6861-4e6f-8ebd-4109dac86998",
-      "location": "Switzerland",
-      "description": "Ticketing Administration Specialist",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 93,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "238e7025650dd5f534df",
@@ -240,7 +222,7 @@
       "score": 93,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-22T06:19:32.393557+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "external"
     },
@@ -256,7 +238,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -272,7 +254,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -288,7 +270,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -304,7 +286,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-23T06:18:59.561421+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -339,6 +321,22 @@
       "last_seen": "2026-10-20T06:16:54.375925+00:00",
       "status": "not found in latest source",
       "source": "uefa"
+    },
+    {
+      "id": "b1ef270aa72f2b879bd3",
+      "company": "Global Sports Jobs",
+      "title": "Ticketing Administration Specialist",
+      "url": "https://www.globalsportsjobs.com/jobs/4a718673-6861-4e6f-8ebd-4109dac86998",
+      "location": "Switzerland",
+      "description": "Ticketing Administration Specialist",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 93,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     },
     {
       "id": "6def0dfd53543824a34a",
