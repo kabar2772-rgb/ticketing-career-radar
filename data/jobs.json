@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T06:14:52.642410+00:00",
+  "updated": "2026-10-26T06:21:26.219820+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
       "retrieved": 46,
-      "relevant": 1
+      "relevant": 0
     },
     {
       "source": "Michael Page",
@@ -16,8 +16,8 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 7,
-      "relevant": 3
+      "retrieved": 5,
+      "relevant": 2
     },
     {
       "source": "Formula E",
@@ -175,23 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
-      "status": "active",
-      "source": "uefa"
-    },
-    {
-      "id": "b569843789c5dc70a594",
-      "company": "UEFA",
-      "title": "Ticketing Venue Configuration Assistant",
-      "url": "https://emp.jobylon.com/jobs/389729-uefa-ticketing-venue-configuration-assistant/",
-      "location": "Nyon, Switzerland",
-      "description": "Ticketing Venue Configuration Assistant Division: UEFA Events SA Application deadline: 25/10/2026",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 100,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -207,7 +191,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -223,25 +207,9 @@
       "score": 96,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "uefa"
-    },
-    {
-      "id": "238e7025650dd5f534df",
-      "company": "Global Sports Jobs",
-      "title": "Ticketing Administrator (6-month FTC)",
-      "url": "https://www.globalsportsjobs.com/jobs/906a8ec9-0203-4a14-baef-ffb1db194cb2",
-      "location": "United Kingdom",
-      "description": "Ticketing Administrator (6-month FTC)",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 93,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-22T06:19:32.393557+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "f922d07ad84122a9f945",
@@ -255,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -271,7 +239,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -287,7 +255,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -303,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -324,6 +292,22 @@
       "source": "uefa"
     },
     {
+      "id": "b569843789c5dc70a594",
+      "company": "UEFA",
+      "title": "Ticketing Venue Configuration Assistant",
+      "url": "https://emp.jobylon.com/jobs/389729-uefa-ticketing-venue-configuration-assistant/",
+      "location": "Nyon, Switzerland",
+      "description": "Ticketing Venue Configuration Assistant Division: UEFA Events SA Application deadline: 25/10/2026",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 100,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-17T17:57:21.242896+00:00",
+      "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "status": "not found in latest source",
+      "source": "uefa"
+    },
+    {
       "id": "b1ef270aa72f2b879bd3",
       "company": "Global Sports Jobs",
       "title": "Ticketing Administration Specialist",
@@ -336,6 +320,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
       "last_seen": "2026-10-22T06:19:32.393557+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "238e7025650dd5f534df",
+      "company": "Global Sports Jobs",
+      "title": "Ticketing Administrator (6-month FTC)",
+      "url": "https://www.globalsportsjobs.com/jobs/906a8ec9-0203-4a14-baef-ffb1db194cb2",
+      "location": "United Kingdom",
+      "description": "Ticketing Administrator (6-month FTC)",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 93,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-22T06:19:32.393557+00:00",
+      "last_seen": "2026-10-25T06:14:52.642410+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
