@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26T06:21:26.219820+00:00",
+  "updated": "2026-10-27T06:21:27.503401+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 46,
-      "relevant": 0
+      "retrieved": 45,
+      "relevant": 1
     },
     {
       "source": "Michael Page",
@@ -16,8 +16,8 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 5,
-      "relevant": 2
+      "retrieved": 4,
+      "relevant": 1
     },
     {
       "source": "Formula E",
@@ -45,14 +45,14 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 42,
       "relevant": 1
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 187,
-      "relevant": 2
+      "retrieved": 186,
+      "relevant": 1
     },
     {
       "source": "NFL UK & Ireland",
@@ -75,37 +75,38 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 32,
+      "retrieved": 29,
       "relevant": 0
     },
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 49,
+      "retrieved": 51,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 148,
+      "retrieved": 147,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 39,
+      "retrieved": 42,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 41,
+      "retrieved": 43,
       "relevant": 0
     },
     {
       "source": "Robert Walters",
-      "state": "error",
-      "detail": "403 Client Error: Forbidden for url: https://www.robertwalters.ae/"
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
     },
     {
       "source": "Hays Middle East",
@@ -175,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -191,25 +192,9 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
       "status": "active",
       "source": "ashby"
-    },
-    {
-      "id": "0e33a6a2c3dfa5a3caaf",
-      "company": "UEFA",
-      "title": "EURO Ceremonies Manager",
-      "url": "https://emp.jobylon.com/jobs/390175-uefa-euro-ceremonies-manager/",
-      "location": "Nyon, Switzerland",
-      "description": "EURO Ceremonies Manager Division: Club Competitions Operations & Events Application deadline: 26/10/2026",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 96,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-17T17:57:21.242896+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
-      "status": "active",
-      "source": "uefa"
     },
     {
       "id": "f922d07ad84122a9f945",
@@ -223,7 +208,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -239,23 +224,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
-      "status": "active",
-      "source": "lever"
-    },
-    {
-      "id": "e156988575d96d89de4b",
-      "company": "Xsolla Dubai Events",
-      "title": "Event Operations Manager, MENA",
-      "url": "https://jobs.lever.co/xsolla/656ea397-ddd6-4f81-9cae-78fdc4f208f6",
-      "location": "Dubai, United Arab Emirates",
-      "description": "ABOUT YOU We are looking for an Event Operations Manager, MENA who is trustworthy, self-driven, motivated, and accountable to join our Global Experiential Marketing team. The ideal candidate thrives in a fast-paced, highly collaborative, cross-functional and multicultural environment and is passionate about bringing major global conference and event brands to Xsolla's new Dubai events hub and Expo venue. You will work closely with the Director of Marketing EMEA and the Global Head of Event Sales to manage relationships with the event organizers Xsolla brings to the region, owning the deal process, sales logistics and account management that gets each event successfully set up and delivered in the Xsolla Dubai Expo venue. The right person for this role will be a strong relationship manager, negotiator, and project owner who can manage multiple organizer accounts at once, build a team from the ground up, and turn commercial agreements into flawless on-site delivery. This role is in-office/on-site at Xsolla's new Dubai hub and will require regional and international travel of up to 25-30%. ABOUT US Xsolla is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry. From indie to AAA, companies partner with Xsolla to help them fund, distribute, market, and monetize their games. Grounded in the belief in the future of video games, Xsolla is resolute in the mission to bring opportunities together, and continually make new resources available to creators. Headquartered and incorporated in Los Angeles, California, Xsolla operates as the merchant of record and has helped over 1,500+ game developers to reach more players and grow their businesses around the world. With more paths to profits and ways to win, developers have all the things needed to enjoy the game. For more information, visit xsolla.com.",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 76,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -271,9 +240,25 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
       "status": "active",
       "source": "greenhouse"
+    },
+    {
+      "id": "f2fa168427deb7a97b84",
+      "company": "Global Sports Jobs",
+      "title": "Senior Commercial Manager, Kayo",
+      "url": "https://www.globalsportsjobs.com/jobs/d61d4659-41a3-41b4-869e-012917d1b72a",
+      "location": "Australia",
+      "description": "Senior Commercial Manager, Kayo",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "3fffdf5f5d12d4be1bb6",
@@ -304,6 +289,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-17T17:57:21.242896+00:00",
       "last_seen": "2026-10-25T06:14:52.642410+00:00",
+      "status": "not found in latest source",
+      "source": "uefa"
+    },
+    {
+      "id": "0e33a6a2c3dfa5a3caaf",
+      "company": "UEFA",
+      "title": "EURO Ceremonies Manager",
+      "url": "https://emp.jobylon.com/jobs/390175-uefa-euro-ceremonies-manager/",
+      "location": "Nyon, Switzerland",
+      "description": "EURO Ceremonies Manager Division: Club Competitions Operations & Events Application deadline: 26/10/2026",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 96,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-17T17:57:21.242896+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "not found in latest source",
       "source": "uefa"
     },
@@ -386,6 +387,22 @@
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
       "status": "not found in latest source",
       "source": "external"
+    },
+    {
+      "id": "e156988575d96d89de4b",
+      "company": "Xsolla Dubai Events",
+      "title": "Event Operations Manager, MENA",
+      "url": "https://jobs.lever.co/xsolla/656ea397-ddd6-4f81-9cae-78fdc4f208f6",
+      "location": "Dubai, United Arab Emirates",
+      "description": "ABOUT YOU We are looking for an Event Operations Manager, MENA who is trustworthy, self-driven, motivated, and accountable to join our Global Experiential Marketing team. The ideal candidate thrives in a fast-paced, highly collaborative, cross-functional and multicultural environment and is passionate about bringing major global conference and event brands to Xsolla's new Dubai events hub and Expo venue. You will work closely with the Director of Marketing EMEA and the Global Head of Event Sales to manage relationships with the event organizers Xsolla brings to the region, owning the deal process, sales logistics and account management that gets each event successfully set up and delivered in the Xsolla Dubai Expo venue. The right person for this role will be a strong relationship manager, negotiator, and project owner who can manage multiple organizer accounts at once, build a team from the ground up, and turn commercial agreements into flawless on-site delivery. This role is in-office/on-site at Xsolla's new Dubai hub and will require regional and international travel of up to 25-30%. ABOUT US Xsolla is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry. From indie to AAA, companies partner with Xsolla to help them fund, distribute, market, and monetize their games. Grounded in the belief in the future of video games, Xsolla is resolute in the mission to bring opportunities together, and continually make new resources available to creators. Headquartered and incorporated in Los Angeles, California, Xsolla operates as the merchant of record and has helped over 1,500+ game developers to reach more players and grow their businesses around the world. With more paths to profits and ways to win, developers have all the things needed to enjoy the game. For more information, visit xsolla.com.",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 76,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-18T10:30:04.421244+00:00",
+      "last_seen": "2026-10-26T06:21:26.219820+00:00",
+      "status": "not found in latest source",
+      "source": "lever"
     },
     {
       "id": "7472104dfe88670f4341",
