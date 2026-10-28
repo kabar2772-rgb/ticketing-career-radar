@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-27T06:21:27.503401+00:00",
+  "updated": "2026-10-28T06:25:17.006540+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 45,
+      "retrieved": 40,
       "relevant": 1
     },
     {
@@ -33,7 +33,7 @@
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 33,
+      "retrieved": 32,
       "relevant": 0
     },
     {
@@ -45,7 +45,7 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 42,
+      "retrieved": 40,
       "relevant": 1
     },
     {
@@ -87,13 +87,13 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 147,
+      "retrieved": 148,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 42,
+      "retrieved": 44,
       "relevant": 0
     },
     {
@@ -176,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +192,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -208,7 +208,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -224,7 +224,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -240,7 +240,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -256,7 +256,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-27T06:21:27.503401+00:00",
-      "last_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-28T06:25:17.006540+00:00",
       "status": "active",
       "source": "external"
     },
