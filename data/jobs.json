@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T06:25:17.006540+00:00",
+  "updated": "2026-10-29T06:27:19.944520+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 40,
-      "relevant": 1
+      "retrieved": 44,
+      "relevant": 3
     },
     {
       "source": "Michael Page",
@@ -27,13 +27,13 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 25,
+      "retrieved": 26,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 32,
+      "retrieved": 31,
       "relevant": 0
     },
     {
@@ -45,13 +45,13 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 40,
+      "retrieved": 38,
       "relevant": 1
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 186,
+      "retrieved": 190,
       "relevant": 1
     },
     {
@@ -75,13 +75,13 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 29,
+      "retrieved": 30,
       "relevant": 0
     },
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 51,
+      "retrieved": 48,
       "relevant": 0
     },
     {
@@ -99,7 +99,7 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 42,
       "relevant": 0
     },
     {
@@ -176,7 +176,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +192,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -208,9 +208,25 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "greenhouse"
+    },
+    {
+      "id": "131d2c61b80a1c5e3ecc",
+      "company": "Global Sports Jobs",
+      "title": "Senior Warehouse Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/8b19126a-e327-436c-b222-4f9dcfde1de0",
+      "location": "United Kingdom",
+      "description": "Senior Warehouse Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-29T06:27:19.944520+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "59012f1500342b1efdb3",
@@ -224,9 +240,25 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "lever"
+    },
+    {
+      "id": "451a7b6e5964a65beb0e",
+      "company": "Global Sports Jobs",
+      "title": "Event Director",
+      "url": "https://www.globalsportsjobs.com/jobs/674aa135-6149-4d44-9b19-7cf246666bfb",
+      "location": "Australia",
+      "description": "Event Director",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-29T06:27:19.944520+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "e59fa9cef08981cd5366",
@@ -240,7 +272,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -256,7 +288,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-27T06:21:27.503401+00:00",
-      "last_seen": "2026-10-28T06:25:17.006540+00:00",
+      "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "active",
       "source": "external"
     },
