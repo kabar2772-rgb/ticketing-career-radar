@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-30T06:27:06.045445+00:00",
+  "updated": "2026-10-31T06:26:41.101737+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
       "retrieved": 45,
-      "relevant": 3
+      "relevant": 2
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 3,
+      "retrieved": 4,
       "relevant": 1
     },
     {
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 25,
+      "retrieved": 24,
       "relevant": 0
     },
     {
@@ -51,7 +51,7 @@
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 190,
+      "retrieved": 189,
       "relevant": 1
     },
     {
@@ -81,19 +81,19 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 48,
+      "retrieved": 44,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 151,
+      "retrieved": 149,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 46,
+      "retrieved": 43,
       "relevant": 0
     },
     {
@@ -165,18 +165,18 @@
   ],
   "jobs": [
     {
-      "id": "4de1efc08aa33d802ad7",
+      "id": "c2206ce10b1d236b8b02",
       "company": "UEFA",
-      "title": "Ticketing Administration Specialist",
-      "url": "https://emp.jobylon.com/jobs/391319-uefa-ticketing-administration-specialist/",
+      "title": "Content & CRM Specialist (Ticketing)",
+      "url": "https://emp.jobylon.com/jobs/393992-uefa-content-crm-specialist-ticketing/",
       "location": "Nyon, Switzerland",
-      "description": "Ticketing Administration Specialist Division: UEFA Events SA Application deadline: 30/10/2026",
+      "description": "Content & CRM Specialist (Ticketing) Division: UEFA Events SA Application deadline: 09/11/2026",
       "published": "",
       "visa": "Not specified — verify",
       "score": 100,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "first_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,25 +192,9 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "ashby"
-    },
-    {
-      "id": "131d2c61b80a1c5e3ecc",
-      "company": "Global Sports Jobs",
-      "title": "Senior Warehouse Operations Manager",
-      "url": "https://www.globalsportsjobs.com/jobs/8b19126a-e327-436c-b222-4f9dcfde1de0",
-      "location": "United Kingdom",
-      "description": "Senior Warehouse Operations Manager",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "59012f1500342b1efdb3",
@@ -224,7 +208,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -240,7 +224,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "external"
     },
@@ -256,25 +240,41 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "greenhouse"
     },
     {
-      "id": "f2fa168427deb7a97b84",
+      "id": "29395c7df7a5fe630973",
       "company": "Global Sports Jobs",
-      "title": "Senior Commercial Manager, Kayo",
-      "url": "https://www.globalsportsjobs.com/jobs/d61d4659-41a3-41b4-869e-012917d1b72a",
-      "location": "Australia",
-      "description": "Senior Commercial Manager, Kayo",
+      "title": "Stadium Safety & Security Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/7b459f6a-6759-4905-b43e-e1301568a9d3",
+      "location": "Ireland",
+      "description": "Stadium Safety & Security Manager",
       "published": "",
       "visa": "Not specified — verify",
       "score": 69,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-27T06:21:27.503401+00:00",
-      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "first_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-10-31T06:26:41.101737+00:00",
       "status": "active",
       "source": "external"
+    },
+    {
+      "id": "4de1efc08aa33d802ad7",
+      "company": "UEFA",
+      "title": "Ticketing Administration Specialist",
+      "url": "https://emp.jobylon.com/jobs/391319-uefa-ticketing-administration-specialist/",
+      "location": "Nyon, Switzerland",
+      "description": "Ticketing Administration Specialist Division: UEFA Events SA Application deadline: 30/10/2026",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 100,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-21T06:18:16.959645+00:00",
+      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "status": "not found in latest source",
+      "source": "uefa"
     },
     {
       "id": "3fffdf5f5d12d4be1bb6",
@@ -421,6 +421,22 @@
       "source": "external"
     },
     {
+      "id": "131d2c61b80a1c5e3ecc",
+      "company": "Global Sports Jobs",
+      "title": "Senior Warehouse Operations Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/8b19126a-e327-436c-b222-4f9dcfde1de0",
+      "location": "United Kingdom",
+      "description": "Senior Warehouse Operations Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-29T06:27:19.944520+00:00",
+      "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
       "id": "e156988575d96d89de4b",
       "company": "Xsolla Dubai Events",
       "title": "Event Operations Manager, MENA",
@@ -449,6 +465,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "f2fa168427deb7a97b84",
+      "company": "Global Sports Jobs",
+      "title": "Senior Commercial Manager, Kayo",
+      "url": "https://www.globalsportsjobs.com/jobs/d61d4659-41a3-41b4-869e-012917d1b72a",
+      "location": "Australia",
+      "description": "Senior Commercial Manager, Kayo",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-27T06:21:27.503401+00:00",
+      "last_seen": "2026-10-30T06:27:06.045445+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
