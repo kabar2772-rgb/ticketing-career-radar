@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T06:26:41.101737+00:00",
+  "updated": "2026-11-01T06:30:35.734557+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 45,
+      "retrieved": 42,
       "relevant": 2
     },
     {
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 4,
+      "retrieved": 2,
       "relevant": 1
     },
     {
@@ -99,14 +99,13 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 40,
+      "retrieved": 38,
       "relevant": 0
     },
     {
       "source": "Robert Walters",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "403 Client Error: Forbidden for url: https://www.robertwalters.ae/"
     },
     {
       "source": "Hays Middle East",
@@ -140,9 +139,8 @@
     },
     {
       "source": "Mackenzie Jones",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "HTTPSConnectionPool(host='www.mackenziejones.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
     },
     {
       "source": "FIFA Careers",
@@ -176,7 +174,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -192,7 +190,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -208,7 +206,7 @@
       "score": 76,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "lever"
     },
@@ -224,7 +222,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "external"
     },
@@ -240,7 +238,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -256,7 +254,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-10-31T06:26:41.101737+00:00",
+      "last_seen": "2026-11-01T06:30:35.734557+00:00",
       "status": "active",
       "source": "external"
     },
