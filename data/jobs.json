@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T06:48:22.223203+00:00",
+  "updated": "2026-11-05T06:50:17.304351+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 42,
       "relevant": 6
     },
     {
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 2,
+      "retrieved": 3,
       "relevant": 1
     },
     {
@@ -39,13 +39,13 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 18,
+      "retrieved": 20,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 34,
       "relevant": 0
     },
     {
@@ -63,7 +63,7 @@
     {
       "source": "Relevent Football Partners",
       "state": "ok",
-      "retrieved": 3,
+      "retrieved": 5,
       "relevant": 2
     },
     {
@@ -75,25 +75,25 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 31,
+      "retrieved": 32,
       "relevant": 0
     },
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 42,
+      "retrieved": 43,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 148,
+      "retrieved": 150,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 40,
+      "retrieved": 41,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -191,41 +191,9 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "ashby"
-    },
-    {
-      "id": "b835092cf55404e28834",
-      "company": "Global Sports Jobs",
-      "title": "Content & CRM Specialist (Ticketing)",
-      "url": "https://www.globalsportsjobs.com/jobs/9ffc164c-9ef5-4954-a97b-7e7bffa1500e",
-      "location": "Switzerland",
-      "description": "Content & CRM Specialist (Ticketing)",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 93,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-02T06:52:22.840743+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "81e1ae19cc6920756c45",
-      "company": "Global Sports Jobs",
-      "title": "Conseiller Commercial Senior",
-      "url": "https://www.globalsportsjobs.com/jobs/f72d3fbf-5081-48f3-af58-b91b40468f93",
-      "location": "France",
-      "description": "Conseiller Commercial Senior",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "fc88c799bedb02a24f5a",
@@ -239,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "external"
     },
@@ -271,7 +239,39 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "95a61a45d8bf244e1993",
+      "company": "Global Sports Jobs",
+      "title": "Senior Lead - Partnership Servicing",
+      "url": "https://www.globalsportsjobs.com/jobs/29268134-9043-43c6-8284-b93358a3eeec",
+      "location": "United Kingdom",
+      "description": "Senior Lead - Partnership Servicing",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-05T06:50:17.304351+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "fb271a5830e8e4439408",
+      "company": "Global Sports Jobs",
+      "title": "Head of Customer Operations",
+      "url": "https://www.globalsportsjobs.com/jobs/49266788-aedd-4614-83ee-16b0b8bcd5f4",
+      "location": "Australia",
+      "description": "Head of Customer Operations",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-05T06:50:17.304351+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "external"
     },
@@ -281,13 +281,13 @@
       "title": "Hospitality and Events Manager",
       "url": "https://jobs.ashbyhq.com/releventfp/0f9660d6-f430-4b7d-a9ba-97f8cbd498f4",
       "location": "London",
-      "description": "Reports to: Senior Manager, Hospitality & Events About Relevent Football Partners Relevent Football Partners is a wholly owned subsidiary of Relevent, purpose-built to commercialise the UEFA men’s club competitions globally. An independent entity, Relevent Football Partners is tasked with providing UC3 — the joint venture between UEFA and European Football Clubs (EFC) — strategic and sales support in the worldwide marketing and sale of media, sponsorship, and licensing rights for the UEFA Champions League, UEFA Europa League, UEFA Conference League, UEFA Super Cup, UEFA Youth League, and the UEFA Futsal Champions League. Following the UC3 tender process, Relevent Football Partners was awarded the commercial rights to the UEFA men’s club competitions (Champions League, Europa League and Conference League) on a global basis for the 2027 to 2033 cycle. As such, Relevent Football Partners is now seeking to build a truly world class business focused on the monetisation of these commercial rights. Position Summary The Hospitality & Event Operations Manager will support the Relevent Football Partners Events & Hospitality team in delivering world-class commercial partner hospitality, with a primary focus on the UEFA Champions League (UCL) Final and support across the wider UEFA Men's Club Competitions (UMCC) Finals and other partner events. Acting as the key link between UEFA stakeholders, Partners and their agencies, the role manages day-to-day liaison between Partners and the UEFA Hospitality Production team, ensuring Partner Hospitality is delivered to the highest standard. Responsibilities include project management, partner documentation, supplier and agency management, and stakeholder engagement. Key Responsibilities Pre Event Project Management - Primary contact for the UEFA Hospitality Production team and commercial Partners on Partner Hospitality at the UCL Final, including the ‘Champions Village’ and other Relevent events. - Lead project documentation (plans, trackers, status and briefing documents) to ensure all deadlines are met. - Manage concise, co-ordinated Partner communications on hospitality orders, operations and experience. - Coordinate and approve Partner Hospitality concepts with UEFA Hospitality, including brand visibility and activation plans. - Maintain Partner-facing documents and platforms, including the Partner Options Catalogue (POC) for ordering hospitality items. - Work with departments to manage Sponsor Hospitality online tools and systems, streamlining processes for Sponsors and agencies. Site Visits - Lead Partner Site Visits, co-creating presentations with UEFA Hospitality Production. - Manage all Partner topics, including 1:1 meetings, agendas and logistics. - Lead post site visit follow ups and actions. Foster collaboration with UC3, UEFA and Relevent Football Partners teams, Partners, agencies and suppliers. - Plan and attend other venue or city visits as required. Onsite Delivery - Oversee Partner Hospitality delivery at the UCL Final, including the Champions Village and UEFA Club, and support delivery at other UMCC Finals. - Primary on-site contact for Partners and agencies from set-up onwards, resolving queries and issues. - Manage clear, efficient communication channels with Partner operational contacts and agencies. - Lead daily Partner meetings and tours to track implementation against agreed timelines and plans. - Monitor and sign off Partner creative concept implementation. - Full involvement in match-day operations, including guest flow, VIP escorting and real-time issue resolution. General - Proactively identify and implement improvements to team processes, workflow and productivity. - Collaborate with the wider events, hospitality and ticketing team, agencies and suppliers to deliver consistent, high-quality partner experiences. - Build strong relationships with UC3, UEFA and Relevent Football Partners Sponsorship and Media teams, acting as the single point of truth for UMCC Finals Partner Hospitality. - Support the wider team across other partner events, including the UEL and UECL Finals, UCL Draw, UEFA Super Cup, season hospitality, partner workshops and Relevent corporate events. Experience required Extensive experience delivering large-scale Partner hospitality at global live sports events. UEFA event experience desirable but not essential. Strong understanding of hospitality delivery requirements and commercial partner contractual rights. Proven track record in client servicing, operational planning and end-to-end hospitality delivery. Proven ability to manage budgets, contracts and suppliers. Familiarity with online ticketing tools and guest management systems. Skilled at coordinating multiple stakeholders in complex, high-pressure environments. Skills required - Exceptional project management, attention to detail and organisational skills. - Strong relationship-building and stakeholder management skills. - Ability to manage multiple projects in a fast-paced environment. - Excellent written and verbal communication, confident, engaging senior leadership and VIP Partners. - Creative problem-solving and a strong sense of proactivity and ownership. - Proficient in PowerPoint and Excel; familiarity with AI, CRM, guest management and project management tools is a plus. Personal Attributes - A passion for the difference sport makes around the world - The ability to build trusted, long-term relationships - A collaborative, low-ego approach and a willingness to help - High personal standards, with resourcefulness and tenacity - Clear, proactive communicator - A strong sense of ownership and urgency, with high levels of honesty and integrity - Willingness to travel and work occasional evenings/weekends for events. Why Join Us At Relevent Football Partners, you’ll be part of a passionate, global team committed to shaping the future of football in innovative and impactful ways. We offer a collaborative culture, exciting growth opportunities, and the chance to make a real difference in one of the world’s most beloved sports.",
+      "description": "Reports to: Senior Manager, Hospitality & Events About Relevent Football Partners Relevent Football Partners is a wholly owned subsidiary of Relevent, purpose-built to commercialise the UEFA men’s club competitions globally. An independent entity, Relevent Football Partners is tasked with providing UC3 — the joint venture between UEFA and European Football Clubs (EFC) — strategic and sales support in the worldwide marketing and sale of media, sponsorship, and licensing rights for the UEFA Champions League, UEFA Europa League, UEFA Conference League, UEFA Super Cup, UEFA Youth League, and the UEFA Futsal Champions League. Following the UC3 tender process, Relevent Football Partners was awarded the commercial rights to the UEFA men’s club competitions (Champions League, Europa League and Conference League) on a global basis for the 2027 to 2033 cycle. As such, Relevent Football Partners is now seeking to build a truly world class business focused on the monetisation of these commercial rights. Position Summary The Hospitality & Event Operations Manager will support the Relevent Football Partners Events & Hospitality team in delivering world-class commercial partner hospitality, with a primary focus on the UEFA Champions League (UCL) Final and support across the wider UEFA Men's Club Competitions (UMCC) Finals and other partner events. Acting as the key link between UEFA stakeholders, Partners and their agencies, the role manages day-to-day liaison between Partners and the UEFA Hospitality Production team, ensuring Partner Hospitality is delivered to the highest standard. Responsibilities include project management, partner documentation, supplier and agency management, and stakeholder engagement. Key Responsibilities Pre Event Project Management - Primary contact for the UEFA Hospitality Production team and commercial Partners on Partner Hospitality at the UCL Final, including the ‘Champions Village’ and other Relevent events. - Lead project documentation (plans, trackers, status and briefing documents) to ensure all deadlines are met. - Manage concise, co-ordinated Partner communications on hospitality orders, operations and experience. - Coordinate and approve Partner Hospitality concepts with UEFA Hospitality, including brand visibility and activation plans. - Maintain Partner-facing documents and platforms, including the Partner Options Catalogue (POC) for ordering hospitality items. - Work with departments to manage Sponsor Hospitality online tools and systems, streamlining processes for Sponsors and agencies. Site Visits - Lead Partner Site Visits, co-creating presentations with UEFA Hospitality Production. - Manage all Partner topics, including 1:1 meetings, agendas and logistics. - Lead post site visit follow ups and actions. Foster collaboration with UC3, UEFA and Relevent Football Partners teams, Partners, agencies and suppliers. - Plan and attend other venue or city visits as required. Onsite Delivery - Oversee Partner Hospitality delivery at the UCL Final, including the Champions Village and UEFA Club, and support delivery at other UMCC Finals. - Primary on-site contact for Partners and agencies from set-up onwards, resolving queries and issues. - Manage clear, efficient communication channels with Partner operational contacts and agencies. - Lead daily Partner meetings and tours to track implementation against agreed timelines and plans. - Monitor and sign off Partner creative concept implementation. - Full involvement in match-day operations, including guest flow, VIP escorting and real-time issue resolution. General - Proactively identify and implement improvements to team processes, workflow and productivity. - Collaborate with the wider events, hospitality and ticketing team, agencies and suppliers to deliver consistent, high-quality partner experiences. - Build strong relationships with UC3, UEFA and Relevent Football Partners Sponsorship and Media teams, acting as the single point of truth for UMCC Finals Partner Hospitality. - Support the wider team across other partner events, including the UEL and UECL Finals, UCL Draw, UEFA Super Cup, season hospitality, partner workshops and Relevent corporate events. Experience required - Extensive experience delivering large-scale Partner hospitality at global live sports events. - UEFA event experience desirable but not essential. - Strong understanding of hospitality delivery requirements and commercial partner contractual rights. - Proven track record in client servicing, operational planning and end-to-end hospitality delivery. - Proven ability to manage budgets, contracts and suppliers. - Familiarity with online ticketing tools and guest management systems. - Skilled at coordinating multiple stakeholders in complex, high-pressure environments. Skills required - Exceptional project management, attention to detail and organisational skills. - Strong relationship-building and stakeholder management skills. - Ability to manage multiple projects in a fast-paced environment. - Excellent written and verbal communication, confident, engaging senior leadership and VIP Partners. - Creative problem-solving and a strong sense of proactivity and ownership. - Proficient in PowerPoint and Excel; familiarity with AI, CRM, guest management and project management tools is a plus. Personal Attributes - A passion for the difference sport makes around the world - The ability to build trusted, long-term relationships - A collaborative, low-ego approach and a willingness to help - High personal standards, with resourcefulness and tenacity - Clear, proactive communicator - A strong sense of ownership and urgency, with high levels of honesty and integrity - Willingness to travel and work occasional evenings/weekends for events. Why Join Us At Relevent Football Partners, you’ll be part of a passionate, global team committed to shaping the future of football in innovative and impactful ways. We offer a collaborative culture, exciting growth opportunities, and the chance to make a real difference in one of the world’s most beloved sports.",
       "published": "2026-11-03T14:20:43.070+00:00",
       "visa": "Not specified — verify",
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -303,7 +303,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -319,7 +319,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-05T06:50:17.304351+00:00",
       "status": "active",
       "source": "external"
     },
@@ -388,6 +388,22 @@
       "source": "uefa"
     },
     {
+      "id": "b835092cf55404e28834",
+      "company": "Global Sports Jobs",
+      "title": "Content & CRM Specialist (Ticketing)",
+      "url": "https://www.globalsportsjobs.com/jobs/9ffc164c-9ef5-4954-a97b-7e7bffa1500e",
+      "location": "Switzerland",
+      "description": "Content & CRM Specialist (Ticketing)",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 93,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-02T06:52:22.840743+00:00",
+      "last_seen": "2026-11-04T06:48:22.223203+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
       "id": "b1ef270aa72f2b879bd3",
       "company": "Global Sports Jobs",
       "title": "Ticketing Administration Specialist",
@@ -432,6 +448,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "81e1ae19cc6920756c45",
+      "company": "Global Sports Jobs",
+      "title": "Conseiller Commercial Senior",
+      "url": "https://www.globalsportsjobs.com/jobs/f72d3fbf-5081-48f3-af58-b91b40468f93",
+      "location": "France",
+      "description": "Conseiller Commercial Senior",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-04T06:48:22.223203+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
