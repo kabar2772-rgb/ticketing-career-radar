@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06T06:50:10.141491+00:00",
+  "updated": "2026-11-07T06:33:44.938651+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 38,
-      "relevant": 7
+      "retrieved": 43,
+      "relevant": 6
     },
     {
       "source": "Michael Page",
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 18,
+      "retrieved": 20,
       "relevant": 0
     },
     {
@@ -39,13 +39,13 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 20,
+      "retrieved": 19,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 34,
+      "retrieved": 35,
       "relevant": 0
     },
     {
@@ -57,13 +57,13 @@
     {
       "source": "NFL UK & Ireland",
       "state": "ok",
-      "retrieved": 2,
+      "retrieved": 3,
       "relevant": 1
     },
     {
       "source": "Relevent Football Partners",
       "state": "ok",
-      "retrieved": 5,
+      "retrieved": 6,
       "relevant": 2
     },
     {
@@ -87,19 +87,19 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 151,
+      "retrieved": 152,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 41,
+      "retrieved": 44,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 47,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -191,25 +191,9 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "ashby"
-    },
-    {
-      "id": "b835092cf55404e28834",
-      "company": "Global Sports Jobs",
-      "title": "Content & CRM Specialist (Ticketing)",
-      "url": "https://www.globalsportsjobs.com/jobs/9ffc164c-9ef5-4954-a97b-7e7bffa1500e",
-      "location": "Switzerland",
-      "description": "Content & CRM Specialist (Ticketing)",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 93,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-02T06:52:22.840743+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "fc88c799bedb02a24f5a",
@@ -223,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
@@ -271,23 +255,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
     {
-      "id": "1dc9188a062a5a064dd9",
+      "id": "4047c0fa87abc59a6579",
       "company": "Global Sports Jobs",
-      "title": "Senior Manager Distribution Centre - Operations & Lean",
-      "url": "https://www.globalsportsjobs.com/jobs/804aaf70-ff6a-4b5e-9d83-01f31bc9afcc",
+      "title": "Technical Operations Director",
+      "url": "https://www.globalsportsjobs.com/jobs/65741deb-7d30-49e1-a160-4ad56741b8a6",
       "location": "United Kingdom",
-      "description": "Senior Manager Distribution Centre - Operations & Lean",
+      "description": "Technical Operations Director",
       "published": "",
       "visa": "Not specified — verify",
       "score": 81,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-06T06:50:10.141491+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "first_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
@@ -303,7 +287,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "external"
     },
@@ -319,7 +303,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -335,7 +319,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-07T06:33:44.938651+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -402,6 +386,22 @@
       "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "not found in latest source",
       "source": "uefa"
+    },
+    {
+      "id": "b835092cf55404e28834",
+      "company": "Global Sports Jobs",
+      "title": "Content & CRM Specialist (Ticketing)",
+      "url": "https://www.globalsportsjobs.com/jobs/9ffc164c-9ef5-4954-a97b-7e7bffa1500e",
+      "location": "Switzerland",
+      "description": "Content & CRM Specialist (Ticketing)",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 93,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-02T06:52:22.840743+00:00",
+      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     },
     {
       "id": "b1ef270aa72f2b879bd3",
@@ -498,6 +498,22 @@
       "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "not found in latest source",
       "source": "greenhouse"
+    },
+    {
+      "id": "1dc9188a062a5a064dd9",
+      "company": "Global Sports Jobs",
+      "title": "Senior Manager Distribution Centre - Operations & Lean",
+      "url": "https://www.globalsportsjobs.com/jobs/804aaf70-ff6a-4b5e-9d83-01f31bc9afcc",
+      "location": "United Kingdom",
+      "description": "Senior Manager Distribution Centre - Operations & Lean",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-06T06:50:10.141491+00:00",
+      "last_seen": "2026-11-06T06:50:10.141491+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     },
     {
       "id": "7a38ae363a539aaf58cb",
