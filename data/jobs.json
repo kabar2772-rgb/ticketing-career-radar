@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T06:33:44.938651+00:00",
+  "updated": "2026-11-08T06:35:08.826263+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 44,
       "relevant": 6
     },
     {
@@ -45,7 +45,7 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 36,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -191,7 +191,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -207,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +255,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -271,7 +271,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-07T06:33:44.938651+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -287,7 +287,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "external"
     },
@@ -303,7 +303,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -319,7 +319,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "active",
       "source": "greenhouse"
     },
