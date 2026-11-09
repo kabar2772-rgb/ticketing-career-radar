@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08T06:35:08.826263+00:00",
+  "updated": "2026-11-09T06:56:51.019881+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
       "retrieved": 44,
-      "relevant": 6
+      "relevant": 5
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 3,
+      "retrieved": 2,
       "relevant": 1
     },
     {
@@ -175,7 +175,7 @@
       "score": 100,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-31T06:26:41.101737+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "uefa"
     },
@@ -191,7 +191,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -207,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-03T06:43:17.390367+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +255,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "external"
     },
@@ -271,23 +271,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-07T06:33:44.938651+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "fb271a5830e8e4439408",
-      "company": "Global Sports Jobs",
-      "title": "Head of Customer Operations",
-      "url": "https://www.globalsportsjobs.com/jobs/49266788-aedd-4614-83ee-16b0b8bcd5f4",
-      "location": "Australia",
-      "description": "Head of Customer Operations",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 69,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-05T06:50:17.304351+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "external"
     },
@@ -303,7 +287,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -319,7 +303,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-08T06:35:08.826263+00:00",
+      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -608,6 +592,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-21T06:18:16.959645+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "fb271a5830e8e4439408",
+      "company": "Global Sports Jobs",
+      "title": "Head of Customer Operations",
+      "url": "https://www.globalsportsjobs.com/jobs/49266788-aedd-4614-83ee-16b0b8bcd5f4",
+      "location": "Australia",
+      "description": "Head of Customer Operations",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-05T06:50:17.304351+00:00",
+      "last_seen": "2026-11-08T06:35:08.826263+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
