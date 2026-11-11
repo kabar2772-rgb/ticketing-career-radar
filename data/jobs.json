@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-10T06:43:49.154817+00:00",
+  "updated": "2026-11-11T06:47:38.289497+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 37,
-      "relevant": 1
+      "retrieved": 41,
+      "relevant": 2
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 1,
+      "retrieved": 2,
       "relevant": 0
     },
     {
@@ -39,19 +39,19 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 15,
+      "retrieved": 17,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 35,
       "relevant": 0
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 185,
+      "retrieved": 186,
       "relevant": 0
     },
     {
@@ -81,19 +81,19 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 43,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 147,
+      "retrieved": 148,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 41,
+      "retrieved": 45,
       "relevant": 0
     },
     {
@@ -175,9 +175,25 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-10T06:43:49.154817+00:00",
+      "last_seen": "2026-11-11T06:47:38.289497+00:00",
       "status": "active",
       "source": "ashby"
+    },
+    {
+      "id": "391d9160f194f673eb83",
+      "company": "Global Sports Jobs",
+      "title": "Commercial Strategy & Insights Manager - CFCW",
+      "url": "https://www.globalsportsjobs.com/jobs/6e68ce3b-8154-4fb5-87c8-cb7eec1697d9",
+      "location": "United Kingdom",
+      "description": "Commercial Strategy & Insights Manager - CFCW",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "status": "active",
+      "source": "external"
     },
     {
       "id": "4047c0fa87abc59a6579",
@@ -191,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-07T06:33:44.938651+00:00",
-      "last_seen": "2026-11-10T06:43:49.154817+00:00",
+      "last_seen": "2026-11-11T06:47:38.289497+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +223,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-10T06:43:49.154817+00:00",
+      "last_seen": "2026-11-11T06:47:38.289497+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -223,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-10T06:43:49.154817+00:00",
+      "last_seen": "2026-11-11T06:47:38.289497+00:00",
       "status": "active",
       "source": "greenhouse"
     },
