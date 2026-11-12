@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-11T06:47:38.289497+00:00",
+  "updated": "2026-11-12T06:50:02.066052+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 41,
-      "relevant": 2
+      "retrieved": 43,
+      "relevant": 3
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 2,
+      "retrieved": 4,
       "relevant": 0
     },
     {
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 20,
+      "retrieved": 14,
       "relevant": 0
     },
     {
@@ -75,7 +75,7 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 27,
+      "retrieved": 26,
       "relevant": 0
     },
     {
@@ -87,13 +87,13 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 148,
+      "retrieved": 146,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 45,
+      "retrieved": 48,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -191,7 +191,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "8db5ef38b85e41af6357",
+      "company": "Global Sports Jobs",
+      "title": "Senior Account Manager, Events & Hospitality",
+      "url": "https://www.globalsportsjobs.com/jobs/ec254133-01d6-4700-a35b-c2dcb6c042b1",
+      "location": "United Kingdom",
+      "description": "Senior Account Manager, Events & Hospitality",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-07T06:33:44.938651+00:00",
-      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -239,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "active",
       "source": "greenhouse"
     },
