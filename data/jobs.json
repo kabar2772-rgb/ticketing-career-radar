@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T06:50:02.066052+00:00",
+  "updated": "2026-11-13T06:49:19.714369+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 44,
       "relevant": 3
     },
     {
@@ -33,7 +33,7 @@
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 31,
+      "retrieved": 32,
       "relevant": 0
     },
     {
@@ -81,13 +81,13 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 42,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 146,
+      "retrieved": 145,
       "relevant": 0
     },
     {
@@ -104,8 +104,9 @@
     },
     {
       "source": "Robert Walters",
-      "state": "error",
-      "detail": "403 Client Error: Forbidden for url: https://www.robertwalters.ae/"
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
     },
     {
       "source": "Hays Middle East",
@@ -175,7 +176,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -191,7 +192,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,23 +208,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-12T06:50:02.066052+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "external"
     },
     {
-      "id": "4047c0fa87abc59a6579",
+      "id": "c52ae11d9ad23001b550",
       "company": "Global Sports Jobs",
-      "title": "Technical Operations Director",
-      "url": "https://www.globalsportsjobs.com/jobs/65741deb-7d30-49e1-a160-4ad56741b8a6",
-      "location": "United Kingdom",
-      "description": "Technical Operations Director",
+      "title": "Event Manager (3 Month Contract)",
+      "url": "https://www.globalsportsjobs.com/jobs/00b93577-4258-48a5-9bbd-997f1ddaa09d",
+      "location": "Australia",
+      "description": "Event Manager (3 Month Contract)",
       "published": "",
       "visa": "Not specified — verify",
-      "score": 81,
+      "score": 69,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-07T06:33:44.938651+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "first_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +240,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -255,7 +256,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-13T06:49:19.714369+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -560,6 +561,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
       "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "4047c0fa87abc59a6579",
+      "company": "Global Sports Jobs",
+      "title": "Technical Operations Director",
+      "url": "https://www.globalsportsjobs.com/jobs/65741deb-7d30-49e1-a160-4ad56741b8a6",
+      "location": "United Kingdom",
+      "description": "Technical Operations Director",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-07T06:33:44.938651+00:00",
+      "last_seen": "2026-11-12T06:50:02.066052+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
