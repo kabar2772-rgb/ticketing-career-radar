@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-13T06:49:19.714369+00:00",
+  "updated": "2026-11-14T06:37:12.350183+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 44,
-      "relevant": 3
+      "retrieved": 41,
+      "relevant": 4
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 4,
+      "retrieved": 3,
       "relevant": 0
     },
     {
@@ -33,7 +33,7 @@
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 32,
+      "retrieved": 33,
       "relevant": 0
     },
     {
@@ -45,7 +45,7 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 36,
       "relevant": 0
     },
     {
@@ -75,7 +75,7 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 26,
+      "retrieved": 24,
       "relevant": 0
     },
     {
@@ -87,13 +87,13 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 145,
+      "retrieved": 141,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 48,
+      "retrieved": 47,
       "relevant": 0
     },
     {
@@ -176,7 +176,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -192,7 +192,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "c91fe3cdbf52645c41d2",
+      "company": "Global Sports Jobs",
+      "title": "North Riding FA - Head of Operations & Compliance",
+      "url": "https://www.globalsportsjobs.com/jobs/df2cf045-1433-4531-a382-e52319322a55",
+      "location": "United Kingdom",
+      "description": "North Riding FA - Head of Operations & Compliance",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "external"
     },
@@ -208,7 +224,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-12T06:50:02.066052+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "external"
     },
@@ -224,7 +240,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-13T06:49:19.714369+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "external"
     },
@@ -240,7 +256,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -256,7 +272,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-13T06:49:19.714369+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
       "status": "active",
       "source": "greenhouse"
     },
