@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14T06:37:12.350183+00:00",
+  "updated": "2026-11-15T06:41:17.956459+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
       "retrieved": 41,
-      "relevant": 4
+      "relevant": 3
     },
     {
       "source": "Michael Page",
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 14,
+      "retrieved": 11,
       "relevant": 0
     },
     {
@@ -99,14 +99,13 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 43,
+      "retrieved": 42,
       "relevant": 0
     },
     {
       "source": "Robert Walters",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "403 Client Error: Forbidden for url: https://www.robertwalters.ae/"
     },
     {
       "source": "Hays Middle East",
@@ -176,7 +175,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -192,7 +191,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "external"
     },
@@ -208,23 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "8db5ef38b85e41af6357",
-      "company": "Global Sports Jobs",
-      "title": "Senior Account Manager, Events & Hospitality",
-      "url": "https://www.globalsportsjobs.com/jobs/ec254133-01d6-4700-a35b-c2dcb6c042b1",
-      "location": "United Kingdom",
-      "description": "Senior Account Manager, Events & Hospitality",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-12T06:50:02.066052+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "external"
     },
@@ -240,7 +223,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-13T06:49:19.714369+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "external"
     },
@@ -256,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -272,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "last_seen": "2026-11-15T06:41:17.956459+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -515,6 +498,22 @@
       "last_seen": "2026-10-29T06:27:19.944520+00:00",
       "status": "not found in latest source",
       "source": "greenhouse"
+    },
+    {
+      "id": "8db5ef38b85e41af6357",
+      "company": "Global Sports Jobs",
+      "title": "Senior Account Manager, Events & Hospitality",
+      "url": "https://www.globalsportsjobs.com/jobs/ec254133-01d6-4700-a35b-c2dcb6c042b1",
+      "location": "United Kingdom",
+      "description": "Senior Account Manager, Events & Hospitality",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-12T06:50:02.066052+00:00",
+      "last_seen": "2026-11-14T06:37:12.350183+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     },
     {
       "id": "95a61a45d8bf244e1993",
