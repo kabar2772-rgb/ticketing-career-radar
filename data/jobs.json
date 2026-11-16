@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-15T06:41:17.956459+00:00",
+  "updated": "2026-11-16T07:49:27.418843+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 41,
-      "relevant": 3
+      "retrieved": 42,
+      "relevant": 4
     },
     {
       "source": "Michael Page",
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 11,
+      "retrieved": 9,
       "relevant": 0
     },
     {
@@ -39,7 +39,7 @@
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 17,
+      "retrieved": 18,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -191,7 +191,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "fc88c799bedb02a24f5a",
+      "company": "Global Sports Jobs",
+      "title": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
+      "url": "https://www.globalsportsjobs.com/jobs/618f1cb8-5b66-41b5-ae80-01215400d05d",
+      "location": "United Kingdom",
+      "description": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-13T06:49:19.714369+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -255,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-15T06:41:17.956459+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -432,22 +448,6 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
-      "status": "not found in latest source",
-      "source": "external"
-    },
-    {
-      "id": "fc88c799bedb02a24f5a",
-      "company": "Global Sports Jobs",
-      "title": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
-      "url": "https://www.globalsportsjobs.com/jobs/618f1cb8-5b66-41b5-ae80-01215400d05d",
-      "location": "United Kingdom",
-      "description": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-09T06:56:51.019881+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
