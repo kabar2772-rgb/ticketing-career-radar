@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-16T07:49:27.418843+00:00",
+  "updated": "2026-11-17T06:51:49.056406+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 42,
-      "relevant": 4
+      "retrieved": 44,
+      "relevant": 3
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 3,
+      "retrieved": 5,
       "relevant": 0
     },
     {
@@ -27,7 +27,7 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 9,
+      "retrieved": 10,
       "relevant": 0
     },
     {
@@ -45,25 +45,25 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 36,
+      "retrieved": 35,
       "relevant": 0
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 186,
+      "retrieved": 187,
       "relevant": 0
     },
     {
       "source": "NFL UK & Ireland",
       "state": "ok",
-      "retrieved": 3,
+      "retrieved": 4,
       "relevant": 1
     },
     {
       "source": "Relevent Football Partners",
       "state": "ok",
-      "retrieved": 7,
+      "retrieved": 8,
       "relevant": 2
     },
     {
@@ -75,7 +75,7 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 24,
+      "retrieved": 23,
       "relevant": 0
     },
     {
@@ -87,19 +87,19 @@
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 141,
+      "retrieved": 136,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 47,
+      "retrieved": 43,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 42,
+      "retrieved": 39,
       "relevant": 0
     },
     {
@@ -175,41 +175,9 @@
       "score": 97,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-21T06:18:16.959645+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
       "status": "active",
       "source": "ashby"
-    },
-    {
-      "id": "391d9160f194f673eb83",
-      "company": "Global Sports Jobs",
-      "title": "Commercial Strategy & Insights Manager - CFCW",
-      "url": "https://www.globalsportsjobs.com/jobs/6e68ce3b-8154-4fb5-87c8-cb7eec1697d9",
-      "location": "United Kingdom",
-      "description": "Commercial Strategy & Insights Manager - CFCW",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-11T06:47:38.289497+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "fc88c799bedb02a24f5a",
-      "company": "Global Sports Jobs",
-      "title": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
-      "url": "https://www.globalsportsjobs.com/jobs/618f1cb8-5b66-41b5-ae80-01215400d05d",
-      "location": "United Kingdom",
-      "description": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
-      "status": "active",
-      "source": "external"
     },
     {
       "id": "c91fe3cdbf52645c41d2",
@@ -223,7 +191,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "0ce79a859e45bbaa7be1",
+      "company": "Global Sports Jobs",
+      "title": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
+      "url": "https://www.globalsportsjobs.com/jobs/a76b2498-2ea0-4b92-a4cd-ba6ed3d3873b",
+      "location": "United Kingdom",
+      "description": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-17T06:51:49.056406+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +223,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-13T06:49:19.714369+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -266,12 +250,12 @@
       "url": "https://job-boards.greenhouse.io/nfluk-ireland/jobs/5378202008",
       "location": "London",
       "description": "The Manager, Hospitality (UK) will play a key role in the planning, delivery, and execution of NFL Premium and VIP Hospitality programs for the NFL's international games and events. This individual will oversee guest experiences, ensuring best-in-class service for NFL partners, clients, and fans while helping deliver exceptional hospitality experiences that reflect the NFL brand. Working closely with internal stakeholders and external partners, the Hospitality Manager will lead and support hospitality initiatives before, during, and after international events throughout the year. The role requires strong organizational, project management, and communication skills, along with the ability to manage multiple priorities in a fast-paced environment. The successful candidate will be proactive, detail-oriented, and solutions-focused, with a passion for creating memorable experiences and a willingness to go above and beyond to deliver outstanding results. This job posting is for a position with one of the NFL’s third-party agency partners that provides services to the NFL. The individual selected for this role will be an employee of that third-party agency and not the NFL. All compensation, benefits, and other terms and conditions of employment are handled by the agency. The assignment to provide services to the NFL will be limited in duration but may be extended for an additional period by agreement between the NFL and the agency. Key Responsibilities: Design and planning of all hospitality areas including suites, shared spaces, and NFL VIP for international games Manage sales and event agencies to deliver a high-end hospitality program Work collaboratively with participating teams in their hospitality delivery Assist in the branding and design for all hospitality and customer facing areas Conduit between contractors and NFL Creative Day-to-day lead for stadium catering; assist in the creation of menus for GA/Hospitality areas May include external events Entertainment programming Cross department guest list management alongside NFL Ticketing and Global Hospitality sales team Working closely with the NFL’s Elite Service, management of internal clients, teams, NFL Executives and team ownership Support in the execution of and delivery of the NFL international games Lead or support in external partner events throughout the year Technical Experience and Role Requirements: Minimum of 5 years’ working within sports and event industry Working within stadiums is highly desired Experience in managing and executing multiple events Outstanding stakeholder management Excellent time management, problem solving and organisational skills Proficiency in MD Office (PPT, Word, Excell etc.) and excellent email management skill required Strong communication, interpersonal, and conflict resolution skills Ability to handle multiple tasks simultaneously and work well under pressure to meet deadlines Proactive mindset and professional manner to align with business objectives, customer expectations and brand values Proficiency in English required, other languages encouraged Awareness of cultural differences and inclusion Willingness and availability to travel to local and international games (primarily Europe) Personal Attributes: A genuine passion for delivering exceptional customer service and experiences Excellent attention to detail Willingness to travel, work long hours and weekends when required Interest in sports recommended Terms / Expected Hours of Work Requires extensive travel to event locations across the UK and Europe. Requires flexibility to work evenings, weekends and holidays, particularly during event and game weeks.",
-      "published": "2026-09-17T16:20:36-04:00",
+      "published": "2026-11-16T12:42:28-05:00",
       "visa": "Not specified — verify",
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "last_seen": "2026-11-17T06:51:49.056406+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -420,6 +404,22 @@
       "source": "external"
     },
     {
+      "id": "391d9160f194f673eb83",
+      "company": "Global Sports Jobs",
+      "title": "Commercial Strategy & Insights Manager - CFCW",
+      "url": "https://www.globalsportsjobs.com/jobs/6e68ce3b-8154-4fb5-87c8-cb7eec1697d9",
+      "location": "United Kingdom",
+      "description": "Commercial Strategy & Insights Manager - CFCW",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-11T06:47:38.289497+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
       "id": "81e1ae19cc6920756c45",
       "company": "Global Sports Jobs",
       "title": "Conseiller Commercial Senior",
@@ -448,6 +448,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T11:08:08.128015+00:00",
       "last_seen": "2026-10-19T06:19:23.136139+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "fc88c799bedb02a24f5a",
+      "company": "Global Sports Jobs",
+      "title": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
+      "url": "https://www.globalsportsjobs.com/jobs/618f1cb8-5b66-41b5-ae80-01215400d05d",
+      "location": "United Kingdom",
+      "description": "Leicestershire & Rutland CFA - Head of Commercial and Communications",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-04T06:48:22.223203+00:00",
+      "last_seen": "2026-11-16T07:49:27.418843+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
