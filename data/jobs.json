@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-19T14:48:27.209234+00:00",
+  "updated": "2026-11-20T14:29:03.010483+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 43,
-      "relevant": 2
+      "retrieved": 47,
+      "relevant": 4
     },
     {
       "source": "Michael Page",
@@ -27,25 +27,25 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 11,
+      "retrieved": 10,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 33,
+      "retrieved": 34,
       "relevant": 0
     },
     {
       "source": "ROLLER (Ticketing & Attractions)",
       "state": "ok",
-      "retrieved": 18,
+      "retrieved": 19,
       "relevant": 0
     },
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 33,
       "relevant": 0
     },
     {
@@ -75,31 +75,31 @@
     {
       "source": "AXS",
       "state": "ok",
-      "retrieved": 20,
+      "retrieved": 19,
       "relevant": 0
     },
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 45,
+      "retrieved": 44,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 138,
+      "retrieved": 141,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 37,
+      "retrieved": 38,
       "relevant": 0
     },
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 39,
+      "retrieved": 38,
       "relevant": 0
     },
     {
@@ -121,9 +121,8 @@
     },
     {
       "source": "Cooper Fitch",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "HTTPSConnectionPool(host='www.cooperfitch.ae', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cooperfitch.ae', port=443) at 0x7713a7633050>, 'Con"
     },
     {
       "source": "Kingston Stanley",
@@ -175,7 +174,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-19T14:48:27.209234+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
       "status": "active",
       "source": "external"
     },
@@ -191,7 +190,39 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-17T06:51:49.056406+00:00",
-      "last_seen": "2026-11-19T14:48:27.209234+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "451a7b6e5964a65beb0e",
+      "company": "Global Sports Jobs",
+      "title": "Event Director",
+      "url": "https://www.globalsportsjobs.com/jobs/674aa135-6149-4d44-9b19-7cf246666bfb",
+      "location": "Australia",
+      "description": "Event Director",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-29T06:27:19.944520+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "6ea5fca6acae4bd4e8ad",
+      "company": "Global Sports Jobs",
+      "title": "Hospitality & Events Manager - F1",
+      "url": "https://www.globalsportsjobs.com/jobs/123f457d-0a16-4505-bfc0-bca44b5e0fe6",
+      "location": "Australia",
+      "description": "Hospitality & Events Manager - F1",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +238,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-19T14:48:27.209234+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -223,7 +254,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-19T14:48:27.209234+00:00",
+      "last_seen": "2026-11-20T14:29:03.010483+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -626,22 +657,6 @@
       "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "not found in latest source",
       "source": "lever"
-    },
-    {
-      "id": "451a7b6e5964a65beb0e",
-      "company": "Global Sports Jobs",
-      "title": "Event Director",
-      "url": "https://www.globalsportsjobs.com/jobs/674aa135-6149-4d44-9b19-7cf246666bfb",
-      "location": "Australia",
-      "description": "Event Director",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 69,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-11-03T06:43:17.390367+00:00",
-      "status": "not found in latest source",
-      "source": "external"
     },
     {
       "id": "c52ae11d9ad23001b550",
