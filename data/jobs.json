@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T14:29:03.010483+00:00",
+  "updated": "2026-11-21T13:48:32.224719+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 47,
-      "relevant": 4
+      "retrieved": 48,
+      "relevant": 5
     },
     {
       "source": "Michael Page",
@@ -27,13 +27,13 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 10,
+      "retrieved": 11,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 34,
+      "retrieved": 33,
       "relevant": 0
     },
     {
@@ -45,13 +45,13 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 33,
+      "retrieved": 34,
       "relevant": 0
     },
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 189,
+      "retrieved": 188,
       "relevant": 0
     },
     {
@@ -81,19 +81,19 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 44,
+      "retrieved": 46,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 141,
+      "retrieved": 143,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 38,
+      "retrieved": 35,
       "relevant": 0
     },
     {
@@ -121,8 +121,9 @@
     },
     {
       "source": "Cooper Fitch",
-      "state": "error",
-      "detail": "HTTPSConnectionPool(host='www.cooperfitch.ae', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cooperfitch.ae', port=443) at 0x7713a7633050>, 'Con"
+      "state": "ok",
+      "retrieved": 0,
+      "relevant": 0
     },
     {
       "source": "Kingston Stanley",
@@ -163,6 +164,22 @@
   ],
   "jobs": [
     {
+      "id": "19d3c6959ca8d80dae4d",
+      "company": "Global Sports Jobs",
+      "title": "Commercial Planning Manager",
+      "url": "https://www.globalsportsjobs.com/jobs/a629bed3-d213-4960-b0c0-9d831e4d62da",
+      "location": "United Kingdom",
+      "description": "Commercial Planning Manager",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-21T13:48:32.224719+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
       "id": "c91fe3cdbf52645c41d2",
       "company": "Global Sports Jobs",
       "title": "North Riding FA - Head of Operations & Compliance",
@@ -174,7 +191,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "external"
     },
@@ -190,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-17T06:51:49.056406+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "external"
     },
@@ -206,7 +223,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "external"
     },
@@ -222,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-20T14:29:03.010483+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "external"
     },
@@ -238,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -254,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-20T14:29:03.010483+00:00",
+      "last_seen": "2026-11-21T13:48:32.224719+00:00",
       "status": "active",
       "source": "greenhouse"
     },
