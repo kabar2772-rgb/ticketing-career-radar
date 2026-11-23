@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T13:41:15.328990+00:00",
+  "updated": "2026-11-23T16:40:12.505865+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 48,
+      "retrieved": 47,
       "relevant": 5
     },
     {
@@ -45,7 +45,7 @@
     {
       "source": "BDA Sports Partnerships",
       "state": "ok",
-      "retrieved": 34,
+      "retrieved": 33,
       "relevant": 0
     },
     {
@@ -99,7 +99,7 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 37,
+      "retrieved": 38,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-21T13:48:32.224719+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "external"
     },
@@ -191,7 +191,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-17T06:51:49.056406+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +223,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +239,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-20T14:29:03.010483+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -271,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-22T13:41:15.328990+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
       "status": "active",
       "source": "greenhouse"
     },
