@@ -1,22 +1,21 @@
 {
-  "updated": "2026-11-23T16:40:12.505865+00:00",
+  "updated": "2026-11-24T16:36:24.787952+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 47,
-      "relevant": 5
+      "retrieved": 45,
+      "relevant": 7
     },
     {
       "source": "Michael Page",
-      "state": "ok",
-      "retrieved": 0,
-      "relevant": 0
+      "state": "error",
+      "detail": "503 Server Error: Service Unavailable for url: https://www.michaelpage.ae/jobs"
     },
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 6,
+      "retrieved": 5,
       "relevant": 0
     },
     {
@@ -81,19 +80,19 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 46,
+      "retrieved": 50,
       "relevant": 0
     },
     {
       "source": "AEG Worldwide",
       "state": "ok",
-      "retrieved": 143,
+      "retrieved": 137,
       "relevant": 0
     },
     {
       "source": "NFL",
       "state": "ok",
-      "retrieved": 35,
+      "retrieved": 34,
       "relevant": 0
     },
     {
@@ -175,7 +174,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-21T13:48:32.224719+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "c47765113da626e9a919",
+      "company": "Global Sports Jobs",
+      "title": "Marketing & Commercial Manager (100%)",
+      "url": "https://www.globalsportsjobs.com/jobs/a79dca04-83fc-4882-9fb4-1882c13530b0",
+      "location": "Switzerland",
+      "description": "Marketing & Commercial Manager (100%)",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-24T16:36:24.787952+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "external"
     },
@@ -191,7 +206,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "2b3a3423c8eb89c69bf2",
+      "company": "Global Sports Jobs",
+      "title": "Senior Manager - Commercial Strategy & Insights",
+      "url": "https://www.globalsportsjobs.com/jobs/e6d4f624-31c1-438c-9d1d-079c843b8181",
+      "location": "United Kingdom",
+      "description": "Senior Manager - Commercial Strategy & Insights",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-24T16:36:24.787952+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,23 +238,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-17T06:51:49.056406+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "external"
     },
     {
-      "id": "451a7b6e5964a65beb0e",
+      "id": "976e3b1443d4a4a591ca",
       "company": "Global Sports Jobs",
-      "title": "Event Director",
-      "url": "https://www.globalsportsjobs.com/jobs/674aa135-6149-4d44-9b19-7cf246666bfb",
-      "location": "Australia",
-      "description": "Event Director",
+      "title": "Venue Operations Team Lead",
+      "url": "https://www.globalsportsjobs.com/jobs/b4595507-8e11-4aef-b518-b4059e240c67",
+      "location": "United Kingdom",
+      "description": "Venue Operations Team Lead",
       "published": "",
       "visa": "Not specified — verify",
-      "score": 69,
+      "score": 81,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-10-29T06:27:19.944520+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "first_seen": "2026-11-24T16:36:24.787952+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +270,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-20T14:29:03.010483+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +286,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -266,12 +297,12 @@
       "url": "https://job-boards.greenhouse.io/nfluk-ireland/jobs/5378202008",
       "location": "London",
       "description": "The Manager, Hospitality (UK) will play a key role in the planning, delivery, and execution of NFL Premium and VIP Hospitality programs for the NFL's international games and events. This individual will oversee guest experiences, ensuring best-in-class service for NFL partners, clients, and fans while helping deliver exceptional hospitality experiences that reflect the NFL brand. Working closely with internal stakeholders and external partners, the Hospitality Manager will lead and support hospitality initiatives before, during, and after international events throughout the year. The role requires strong organizational, project management, and communication skills, along with the ability to manage multiple priorities in a fast-paced environment. The successful candidate will be proactive, detail-oriented, and solutions-focused, with a passion for creating memorable experiences and a willingness to go above and beyond to deliver outstanding results. This job posting is for a position with one of the NFL’s third-party agency partners that provides services to the NFL. The individual selected for this role will be an employee of that third-party agency and not the NFL. All compensation, benefits, and other terms and conditions of employment are handled by the agency. The assignment to provide services to the NFL will be limited in duration but may be extended for an additional period by agreement between the NFL and the agency. Key Responsibilities: Design and planning of all hospitality areas including suites, shared spaces, and NFL VIP for international games Manage sales and event agencies to deliver a high-end hospitality program Work collaboratively with participating teams in their hospitality delivery Assist in the branding and design for all hospitality and customer facing areas Conduit between contractors and NFL Creative Day-to-day lead for stadium catering; assist in the creation of menus for GA/Hospitality areas May include external events Entertainment programming Cross department guest list management alongside NFL Ticketing and Global Hospitality sales team Working closely with the NFL’s Elite Service, management of internal clients, teams, NFL Executives and team ownership Support in the execution of and delivery of the NFL international games Lead or support in external partner events throughout the year Technical Experience and Role Requirements: Minimum of 5 years’ working within sports and event industry Working within stadiums is highly desired Experience in managing and executing multiple events Outstanding stakeholder management Excellent time management, problem solving and organisational skills Proficiency in MD Office (PPT, Word, Excell etc.) and excellent email management skill required Strong communication, interpersonal, and conflict resolution skills Ability to handle multiple tasks simultaneously and work well under pressure to meet deadlines Proactive mindset and professional manner to align with business objectives, customer expectations and brand values Proficiency in English required, other languages encouraged Awareness of cultural differences and inclusion Willingness and availability to travel to local and international games (primarily Europe) Personal Attributes: A genuine passion for delivering exceptional customer service and experiences Excellent attention to detail Willingness to travel, work long hours and weekends when required Interest in sports recommended Terms / Expected Hours of Work Requires extensive travel to event locations across the UK and Europe. Requires flexibility to work evenings, weekends and holidays, particularly during event and game weeks.",
-      "published": "2026-11-16T12:42:28-05:00",
+      "published": "2026-11-23T17:16:29-05:00",
       "visa": "Not specified — verify",
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "last_seen": "2026-11-24T16:36:24.787952+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -674,6 +705,22 @@
       "last_seen": "2026-10-26T06:21:26.219820+00:00",
       "status": "not found in latest source",
       "source": "lever"
+    },
+    {
+      "id": "451a7b6e5964a65beb0e",
+      "company": "Global Sports Jobs",
+      "title": "Event Director",
+      "url": "https://www.globalsportsjobs.com/jobs/674aa135-6149-4d44-9b19-7cf246666bfb",
+      "location": "Australia",
+      "description": "Event Director",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 69,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-10-29T06:27:19.944520+00:00",
+      "last_seen": "2026-11-23T16:40:12.505865+00:00",
+      "status": "not found in latest source",
+      "source": "external"
     },
     {
       "id": "c52ae11d9ad23001b550",
