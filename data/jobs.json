@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T16:18:58.149158+00:00",
+  "updated": "2026-11-26T15:54:25.567251+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 45,
-      "relevant": 6
+      "retrieved": 44,
+      "relevant": 5
     },
     {
       "source": "Michael Page",
@@ -16,7 +16,7 @@
     {
       "source": "UEFA",
       "state": "ok",
-      "retrieved": 5,
+      "retrieved": 2,
       "relevant": 0
     },
     {
@@ -27,13 +27,13 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 11,
+      "retrieved": 10,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 34,
+      "retrieved": 33,
       "relevant": 0
     },
     {
@@ -51,7 +51,7 @@
     {
       "source": "Xsolla Dubai Events",
       "state": "ok",
-      "retrieved": 186,
+      "retrieved": 187,
       "relevant": 0
     },
     {
@@ -81,7 +81,7 @@
     {
       "source": "LA28",
       "state": "ok",
-      "retrieved": 52,
+      "retrieved": 51,
       "relevant": 0
     },
     {
@@ -99,7 +99,7 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 38,
+      "retrieved": 37,
       "relevant": 0
     },
     {
@@ -164,18 +164,18 @@
   ],
   "jobs": [
     {
-      "id": "c47765113da626e9a919",
+      "id": "dce9420f4bcf8b9279f3",
       "company": "Global Sports Jobs",
-      "title": "Marketing & Commercial Manager (100%)",
-      "url": "https://www.globalsportsjobs.com/jobs/a79dca04-83fc-4882-9fb4-1882c13530b0",
-      "location": "Switzerland",
-      "description": "Marketing & Commercial Manager (100%)",
+      "title": "Head of Live Operations",
+      "url": "https://www.globalsportsjobs.com/jobs/097e1605-d2df-4f33-bdbc-769383291417",
+      "location": "United Kingdom",
+      "description": "Head of Live Operations",
       "published": "",
       "visa": "Not specified — verify",
       "score": 81,
       "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-24T16:36:24.787952+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "first_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "external"
     },
@@ -191,7 +191,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,23 +207,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-24T16:36:24.787952+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
-      "status": "active",
-      "source": "external"
-    },
-    {
-      "id": "0ce79a859e45bbaa7be1",
-      "company": "Global Sports Jobs",
-      "title": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
-      "url": "https://www.globalsportsjobs.com/jobs/a76b2498-2ea0-4b92-a4cd-ba6ed3d3873b",
-      "location": "United Kingdom",
-      "description": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
-      "published": "",
-      "visa": "Not specified — verify",
-      "score": 81,
-      "salary": "Not disclosed / not parsed",
-      "first_seen": "2026-11-17T06:51:49.056406+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-24T16:36:24.787952+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-25T16:18:58.149158+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "external"
     },
@@ -271,7 +255,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -287,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "last_seen": "2026-11-26T15:54:25.567251+00:00",
       "status": "active",
       "source": "greenhouse"
     },
@@ -532,6 +516,22 @@
       "source": "external"
     },
     {
+      "id": "c47765113da626e9a919",
+      "company": "Global Sports Jobs",
+      "title": "Marketing & Commercial Manager (100%)",
+      "url": "https://www.globalsportsjobs.com/jobs/a79dca04-83fc-4882-9fb4-1882c13530b0",
+      "location": "Switzerland",
+      "description": "Marketing & Commercial Manager (100%)",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-24T16:36:24.787952+00:00",
+      "last_seen": "2026-11-25T16:18:58.149158+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
       "id": "eb959fcc5caa1d798d1f",
       "company": "Global Sports Jobs",
       "title": "Partnership Strategy Manager",
@@ -656,6 +656,22 @@
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-29T06:27:19.944520+00:00",
       "last_seen": "2026-10-30T06:27:06.045445+00:00",
+      "status": "not found in latest source",
+      "source": "external"
+    },
+    {
+      "id": "0ce79a859e45bbaa7be1",
+      "company": "Global Sports Jobs",
+      "title": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
+      "url": "https://www.globalsportsjobs.com/jobs/a76b2498-2ea0-4b92-a4cd-ba6ed3d3873b",
+      "location": "United Kingdom",
+      "description": "Somerset FA - Coach Development Lead & Barclays Girls' Football Partnership Lead",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-17T06:51:49.056406+00:00",
+      "last_seen": "2026-11-25T16:18:58.149158+00:00",
       "status": "not found in latest source",
       "source": "external"
     },
