@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-26T15:54:25.567251+00:00",
+  "updated": "2026-11-27T15:42:35.778439+00:00",
   "sources": [
     {
       "source": "Global Sports Jobs",
       "state": "ok",
-      "retrieved": 44,
-      "relevant": 5
+      "retrieved": 42,
+      "relevant": 6
     },
     {
       "source": "Michael Page",
@@ -27,13 +27,13 @@
     {
       "source": "Hawk-Eye Innovations (Sony Sports)",
       "state": "ok",
-      "retrieved": 10,
+      "retrieved": 11,
       "relevant": 0
     },
     {
       "source": "vivenu (Ticketing Technology)",
       "state": "ok",
-      "retrieved": 33,
+      "retrieved": 32,
       "relevant": 0
     },
     {
@@ -99,7 +99,7 @@
     {
       "source": "Monumental Sports & Entertainment",
       "state": "ok",
-      "retrieved": 37,
+      "retrieved": 36,
       "relevant": 0
     },
     {
@@ -175,7 +175,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-26T15:54:25.567251+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "external"
     },
@@ -191,7 +191,23 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-14T06:37:12.350183+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
+      "status": "active",
+      "source": "external"
+    },
+    {
+      "id": "89506c1dc83927e62560",
+      "company": "Global Sports Jobs",
+      "title": "Partnerships Operations Lead",
+      "url": "https://www.globalsportsjobs.com/jobs/c86a1c87-9fcb-4968-bfc0-ccd23eb2b6c2",
+      "location": "United Kingdom",
+      "description": "Partnerships Operations Lead",
+      "published": "",
+      "visa": "Not specified — verify",
+      "score": 81,
+      "salary": "Not disclosed / not parsed",
+      "first_seen": "2026-11-27T15:42:35.778439+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "external"
     },
@@ -207,7 +223,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-24T16:36:24.787952+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "external"
     },
@@ -223,7 +239,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-24T16:36:24.787952+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "external"
     },
@@ -239,7 +255,7 @@
       "score": 81,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-25T16:18:58.149158+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "external"
     },
@@ -255,7 +271,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-11-04T06:48:22.223203+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "ashby"
     },
@@ -271,7 +287,7 @@
       "score": 69,
       "salary": "Not disclosed / not parsed",
       "first_seen": "2026-10-18T10:30:04.421244+00:00",
-      "last_seen": "2026-11-26T15:54:25.567251+00:00",
+      "last_seen": "2026-11-27T15:42:35.778439+00:00",
       "status": "active",
       "source": "greenhouse"
     },
